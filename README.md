@@ -46,7 +46,7 @@ post@makerspace-gt.de
 
 ### Website
 
-makerspace-gt.de
+https://makerspace-gt.de
 
 ### Kontoinhaber
 
@@ -54,12 +54,15 @@ Makerspace Gütersloh e.V.
 
 ### IBAN
 
+DE52 4786 0125 1226 2315 00
 
 ### BIC
 
+GENODEM1GTL
 
 ### Kreditinstitut
 
+Volksbank in Ostwestfalen eG
 
 ## Vertretungsberechtigte Person
 
@@ -91,7 +94,7 @@ Vorstand
 
 ### E-Mail
 
-michael@makerspace-gt.de
+post@makerspace-gt.de
 
 ## Maßnahmenangaben
 
@@ -101,26 +104,24 @@ MANUEL
 
 ### Kurzbeschreibung
 
-Der Makerspace Gütersloh ist ein offener Ort für gemeinschaftliches Lernen, kreatives Arbeiten und technischen Austausch. Engagierte Bürgerinnen und Bürger können hier eigene Projekte umsetzen, Wissen teilen und sich aktiv in die lokale Gemeinschaft einbringen.
+Der Makerspace Gütersloh e.V. ist eine offene Werkstatt, in der Maschinen und Werkzeuge gemeinschaftlich erforscht und genutzt werden. Unter dem Motto »Mach doch, was du willst!« animieren wir Mitglieder, Gäste und interessierte Personen dazu, sich selbst kreativ auszuleben und neue Dinge zu erschaffen. Wir haben verschiedene Kenntnisse, von laienhaft interessiert bis professionell, und unterstützen uns einander bei Projekten, die wir alleine nicht umsetzen könnten.
 
-Seit März 2019 veranstalten wir in Kooperation mit der Stadtbibliothek Gütersloh monatlich ein Repair Café. Ziel ist es, gemeinsam mit Gästen defekte Gegenstände zu analysieren und zu reparieren. Damit leisten wir Nachbarschaftshilfe, wirken der Wegwerfgesellschaft entgegen und fördern einen nachhaltigen Umgang mit Technik.
+Seit März 2019 veranstalten wir monatliche Repair Cafés in Kooperation mit der Stadtbibliothek Gütersloh. Bei diesen helfen wir dabei, defekte Gegenstände zu reparieren oder Linux zu installieren. Durch das gemeinsame Reparieren setzen wir ein Zeichen gegen die Wegwerfgesellschaft und für einen schonenden Umgang mit Ressourcen.
 
-Zur Organisation der Termine und des E-Mail-Verkehrs nutzen wir seit November 2022 das Ticketsystem Zammad, seit 2025 auch für weitere Veranstaltungen wie „Türen auf mit der Maus“. Es hat sich als zentrale Plattform für Kommunikation und Dokumentation etabliert.
+Seit November 2022 nutzen wir das Ticketsystem Zammad zur Organisation unserer Termine. Es hat sich als zentrale Plattform für die Kommunikation mit Dritten sowie zur Dokumentation von Reparaturergebnissen etabliert und kommt auch bei anderen Veranstaltungen wie den »Türen auf mit der Maus« zum Einsatz.
 
-Im Projekt „MANUEL” möchten wir KI-Technologien niedrigschwellig für das Ehrenamt nutzbar machen.
-MANUEL steht für:
+Mit dem Projekt »MANUEL« möchten wir unser Engagement durch KI unterstützen.  
+MANUEL steht für:  
 Minimale  
 AI für  
 Nutzer-  
 Unterstützung auf  
 Einstiegs-  
-Level.  
+Level.
 
-Zu diesem Zweck soll ein kompakter, energieeffizienter Mac mini (oder ein vergleichbares Modell) mit integrierter GPU für lokale KI-Anwendungen angeschafft werden. So kann ein Large Language Model datenschutzfreundlich lokal betrieben werden. Als Laufzeitumgebung wird unter anderem die Open-Source-Software Ollama eingesetzt.
+MANUEL soll als Level-0-Support bei der Kategorisierung und Erstdiagnose von Anfragen unterstützen. Sie soll Lösungsansätze vorschlagen und Reparaturanleitungen im Wiki erstellen. Das befähigt neue Engagierte, sich mit wenigen Vorkenntnissen direkt einzubringen. So verbinden wir digitale Innovation mit praktischem Ehrenamt, um die lokale Gemeinschaft zu stärken. Zudem kann sie die Ergebnisse statistisch aufbereiten.
 
-Das LLM wird in Zammad integriert und unterstützt als „Level-0-Support“ bei der Erstdiagnose, Kategorisierung von Anfragen sowie bei der Erstellung von Reparaturanleitungen im Wiki und durch Vorschläge für Lösungsansätze.
-
-So wird Wissen dokumentiert und zugänglich gemacht. Gleichzeitig werden neue Engagierte befähigt, sich auch ohne Vorkenntnisse einzubringen. Das Projekt verbindet digitale Innovation mit praktischem Ehrenamt und stärkt die lokale Gemeinschaft.
+Zu diesem Zweck soll ein Mac mini M4 gekauft werden. Aufgrund der Neural Engine Cores ist dies eine kostengünstige Option, um ein Large Language Model lokal und datenschutzfreundlich zu betreiben. Als Laufzeitumgebung für LLMs und als Schnittstelle zu Zammad kommt die Open-Source-Software Ollama zum Einsatz.
 
 ### Durchführungszeitraum von
 
@@ -173,8 +174,9 @@ Die/ der Antragstellende erklärt, dass
 
 Es können noch 30 Dokument(e) oder 150.00 MB hochgeladen werden.
 
-| Dateibeschreibung | Dateiname | Dateigröße | Bearbeiten |
-| :---------------- | :-------- | :--------- | :--------- |
+| Dateibeschreibung | Dateiname |     |
+| :---------------- | :-------- | --- |
+|  Mac mini kaufen  | Screenshot 2026-03-22 at 08-59-57 Mac mini M4 Chip 10‑Core CPU 10‑Core GPU 32 GB Arbeitsspeicher 256 GB Speicher kaufen - Apple (DE).png | ![](./Screenshot%202026-03-22%20at%2008-59-57%20Mac%20mini%20M4%20Chip%2010‑Core%20CPU%2010‑Core%20GPU%2032%20GB%20Arbeitsspeicher%20256%20GB%20Speicher%20kaufen%20-%20Apple%20(DE).png)
 
 Keine Einträge vorhanden
 
