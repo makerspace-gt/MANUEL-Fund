@@ -46,23 +46,43 @@ Bitte gib Deine Kontaktdaten an, damit wir Dich ggf. kontaktieren können.
 
 #### Institution inkl. Rechtsform des Antragstellers
 
+Makerspace Gütersloh e.V.
+
 #### Telefonnummer
+
+05241-2249910
 
 #### Straße und Hausnummer
 
+Bogenstraße 1-8
+
 #### E-Mail-Adresse
+
+post@makerspace-gt.de
 
 #### PLZ
 
+33330
+
 #### Ort
+
+Gütersloh
 
 #### Website
 
+https://makerspace-gt.de
+
 #### Land
+
+Deutschland
 
 #### Name des Ansprechpartners
 
+Michael Prange
+
 #### Füge hier Deinen Freistellungsbescheid gemäß 5 Absatz 1 Nummer 9 des Körperschaftsteuergesetzes an (.pdf/.jpg/.png, max. 50MB gesamt)
+
+- [2026-05-22_FA-GT_Freistellungsbescheid_KSt_22-24.pdf](./2026-05-22_FA-GT_Freistellungsbescheid_KSt_22-24.pdf)
 
 ### Förderbereiche
 
@@ -102,6 +122,8 @@ Bitte ordne Dein Projekt unseren Förderbereichen zu.
 Erzähle uns von Deinem Projekt oder Deiner Idee.
 
 #### Wie heißt Dein Projekt?
+
+MANUEL
 
 #### Kurzbeschreibung Deines Projekts
 
@@ -150,4 +172,7 @@ Bitte prüfe vor absenden des Formulars Deine Angaben. Um zu den einzelnen Absch
 
 ### Ort
 
+Gütersloh
+
 ### Wie bist Du auf die DATEV-Stiftung Zukunft aufmerksam geworden?
+Förderdatenbank der DSEE (https://foerderdatenbank.d-s-e-e.de/foerderprogramme/foerderung-der-datev-stiftung)
