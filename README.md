@@ -147,18 +147,29 @@ In welchem finanziellen Rahmen bewegt sich Dein Förderantrag?
 
 #### Benötigte Fördersumme
 
+2.500,00 €
+
 #### Finanzierungsbedarf
+
+2.759,00 €
 
 #### Ist eine Teilfinanzierung möglich?
 
-- [ ] Ja
+- [x] Ja
 - [ ] Nein
 
 #### Wofür sollen die beantragten Fördermittel im Projekt konkret verwendet werden?
 
 (Gehe dabei insbesondere (wenn vorhanden) auf die folgenden Kostenarten ein und nenne die veranschlagte Höhe pro Kostenart: Personalkosten, Honorarkosten, Materialkosten, Öffentlichkeitsarbeit, Reisekosten, Verwaltungskosten, Veranstaltungskosten)
 
+Mac Studio M4 Max, 14-Core CPU, 32‑Core GPU, 16-Core Neural Engine, 36GB Unified Memory, 512GB SSD (2.759,00 € Materialkosten)  
+https://www.apple.com/de-edu/shop/buy-mac/mac-studio/m4-max-chip-14-core-cpu-32%E2%80%91core-gpu-36-gb-arbeitsspeicher-512gb-speicher
+
 #### Welche Organisationen/Stiftungen/Großspender unterstützen Dein Vorhaben/Deine Organisation zusätzlich?
+
+Für dieses Projekt gibt es keine zusätzliche Unterstützung.
+
+In der Vergangenheit wurde unser Repair Café durch das Landesprogramm Engagement NRW und das Programm »Reparieren statt wegwerfen« vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) finanziell gefördert. Weiterhin haben wir Sachspenden von PeakTech, Weller und Moccamaster erhalten.
 
 ### Überprüfung
 
