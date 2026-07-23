@@ -1,197 +1,153 @@
-# MANUEL-Fund
-Förderantrag zu https://forum.makerspace-gt.de/t/manuel-lokale-ki-fuer-zammad-engagement-nrw/1101
+# [Eigenes Projekt zur Förderung einreichen](https://www.datev-stiftung.de/antragstellung/#projekt)
 
-## Zuwendungsempfängerin / Zuwendungsempfänger im weiteren Antragsteller
+Stell' uns Dein Projekt jetzt ganz bequem über das untenstehende Online-Formular vor.
+Wir freuen uns auf Deine Impulse und Visionen.
 
-### Rechtsform des Antragstellers
+### 1 Kontaktaufnahme
 
-- [ ] Juristische Person des öffentlichen Rechts
-- [x] Juristische Person des privaten Rechts
-- [ ] Personengesellschaft
-- [ ] Natürliche Person
+Nutze die Möglichkeit und spreich mit uns: Stelle Dein Vorhaben im Rahmen einer kurzen Präsentation dem Team der DATEV-Stiftung Zukunft vor.
 
-### Anrede
+### 2 Antrag absenden
 
-Verein
+Reiche Dein Vorhaben bequem über unser Antragsformular ein. Beachte dabei, dass alle notwendigen Unterlagen bei Antragseinreichung übermittelt werden.
 
-### Bezeichnung Antragsteller:in
+### 3 Antragsprüfung
 
-Makerspace Gütersloh e.V.
+Bis 31.07. werden die eingereichten Anträge konsolidiert und anschließend in verschiedenen Gremien vorab bewertet.
 
-### Weitere Bezeichnung Antragsteller:in
+### 4 Entscheidung
 
-### Straße / Nr
+In einer gemeinsamen Sitzung im Oktober entscheiden Kuratorium und Vorstand über die Förderung der eingereichten Anträge.
 
-Bogenstraße 1-8
+## Antrag ausfüllen
 
-### PLZ
+### Vorbereitung
 
-33330
+Wir freuen uns über Dein Interesse und Deine Bereitschaft, gemeinsam mit uns gesellschaftliche Veränderungen zu gestalten.
+
+Bitte lies vor der Einreichung Deines Antrags unsere FAQs, die Dir nützliche Informationen und Hinweise zur Antragstellung bieten.
+
+In vier übersichtlichen Schritten leiten wir Dich durch den Prozess der Antragstellung:
+
+- Persönliche Angaben des Antragstellers
+- Deine Überschneidung mit unseren Förderbereichen
+- Detaillierte Informationen zu Deinem Projekt
+- Benötigter Finanzbedarf
+
+Halte zudem Deinen Freistellungsbescheid bereit, um Deinen Antragsprozess zu beschleunigen.
+
+Solltest Du während der Antragstellung Fragen haben oder weitere Informationen benötigen, zögere nicht, uns unter info@datev-stiftung.de zu kontaktieren. Wir sind hier, um Dich zu unterstützen und alle Deine Fragen zu klären.
+
+Dein Team der DATEV-Stiftung Zukunft
+
+### Persönliche Angaben
+
+Bitte gib Deine Kontaktdaten an, damit wir Dich ggf. kontaktieren können.
+
+#### Institution inkl. Rechtsform des Antragstellers
+
+#### Telefonnummer
+
+#### Straße und Hausnummer
+
+#### E-Mail-Adresse
+
+#### PLZ
+
+#### Ort
+
+#### Website
+
+#### Land
+
+#### Name des Ansprechpartners
+
+#### Füge hier Deinen Freistellungsbescheid gemäß 5 Absatz 1 Nummer 9 des Körperschaftsteuergesetzes an (.pdf/.jpg/.png, max. 50MB gesamt)
+
+### Förderbereiche
+
+Bitte ordne Dein Projekt unseren Förderbereichen zu.
+
+#### In welchem Förderbereich der DATEV-Stiftung Zukunft findest Du Dein Projekt/Deine Organisation wieder? (Mehrfachauswahl möglich)
+
+- [ ] IT-Sicherheit und Datenschutz  
+   Datenschutz und IT-Sicherheit sind in unserer digitalisierten Welt unumgänglich.
+   
+   Unter diesen Förderbereich fallen unter anderem folgende Themenschwerpunkte:
+  - Funktionsweise datenbasierter Geschäftsmodelle
+  - Bewusste Entscheidungsfindung über Verwendung personenbezogener Daten/Klärung der digitalen Souveränität
+  - Selbstbestimmung im digitalen Raum
+  - Frage nach digitaler Identität
+  - Datenschutz im (inter-)nationalen Kontext
+- [ ] Anforderungen an eine digitale Berufs- und Arbeitswelt  
+  Mit der Digitalisierung. bleiben die Berufsbilder, wie wir sie heute kennen, nicht bestehen. Alle Berufsbilder erleben einen Wandel, teilweise sogar disruptiv. Damit verändern sich auch die Hard- und Softskills, die von zukünftigen Arbeit- nehmern beherrscht werden müssen.
+  
+  Diese sind unter anderem:
+  - Durchführung von automatisierten Dienstanalysen
+  - Umgang mit künstlicher Intelligenz
+  - Verantwortungsbewusster Umgang mit digitalen Medien/Ressourcen
+  - Bereitschaft für lebenslanges Lernen
+  - Kreative, interdisziplinäre Lösungsfindung
+- [ ] Digitale Vernetzung und Formen der Zusammenarbeit  
+  Im Fokus stehen Wissens- und Ideentransfer sowie der Erfahrungsaustausch zwischen Staat, Kultur, Wissenschaft und Wirtschaft. Voraussetzung hierfür ist eine allumgreifende Vernetzung.
+  
+  Das erreichen wir unter anderem durch Unterstützung folgender Punkte:
+  - Durchführung von Kongressen, Symposien und Diskussionsforen im Rahmen unserer Stiftungszwecke
+  - Austausch von Schulen mit Partnern aus Wirtschaft und Wissenschaft
+  - Schaffung digitaler Plattform- Ökonomien
+  - Bereichsübergreifende Vernetzung und Zusammenarbeit
+
+### Infos zum Projekt
+
+Erzähle uns von Deinem Projekt oder Deiner Idee.
+
+#### Wie heißt Dein Projekt?
+
+#### Kurzbeschreibung Deines Projekts
+
+Bitte gehe explizit auf folgende Fragen ein:
+
+##### 1. Welches Problem soll das Projekt lösen? Welche Zielsetzung verfolgst Du?
+
+##### 2. Wie erreichst Du Dein Ziel? Mit welchen Maßnahmen?
+
+##### 3. Welche Meilensteine planst Du und hast Du gegebenenfalls schon erreicht?
+
+##### 4. Wie stellst Du die Messbarkeit des Projekterfolges sicher?
+
+##### 5. Warum sollten wir Dich fördern? Wie passt Dein Projekt mit der DATEV-Stiftung Zukunft zusammen?
+
+##### Projektzeitraum (MM/JJJJ-MM/JJJJ)
+
+### Finanzbedarf
+
+In welchem finanziellen Rahmen bewegt sich Dein Förderantrag?
+
+#### Benötigte Fördersumme
+
+#### Finanzierungsbedarf
+
+#### Ist eine Teilfinanzierung möglich?
+
+- [ ] Ja
+- [ ] Nein
+
+#### Wofür sollen die beantragten Fördermittel im Projekt konkret verwendet werden?
+
+(Gehe dabei insbesondere (wenn vorhanden) auf die folgenden Kostenarten ein und nenne die veranschlagte Höhe pro Kostenart: Personalkosten, Honorarkosten, Materialkosten, Öffentlichkeitsarbeit, Reisekosten, Verwaltungskosten, Veranstaltungskosten)
+
+#### Welche Organisationen/Stiftungen/Großspender unterstützen Dein Vorhaben/Deine Organisation zusätzlich?
+
+### Überprüfung
+
+Fast geschafft. Bitte prüfe abschließend, ob Deine Angaben korrekt und vollständig sind.
+
+Bitte prüfe vor absenden des Formulars Deine Angaben. Um zu den einzelnen Abschnitten zu gelangen, nutze bitte nebenstehende Navigation.
+
+- [ ] Ich versichere/wir versichern, dass die in diesem Antrag (einschließlich Anlagen) gemachten Angaben vollständig und richtig sind.
+
+### Datum
 
 ### Ort
 
-Gütersloh
-
-### Gemeindekennziffer
-
-05754008
-
-### Telefon
-
-05241-2249910
-
-### E-Mail
-
-post@makerspace-gt.de
-
-### Website
-
-https://makerspace-gt.de
-
-### Kontoinhaber
-
-Makerspace Gütersloh e.V.
-
-### IBAN
-
-DE52 4786 0125 1226 2315 00
-
-### BIC
-
-GENODEM1GTL
-
-### Kreditinstitut
-
-Volksbank in Ostwestfalen eG
-
-## Vertretungsberechtigte Person
-
-### Anrede
-
-Herr
-
-### Vorname / Name 1
-
-Michael
-
-### Nachname / Name 2
-
-Prange
-
-### Organ / Funktion / Vertretungsart
-
-Vorstand
-
-### Straße / Nr
-
-### PLZ
-
-### Ort
-
-### Telefon
-
-### Fax
-
-### E-Mail
-
-post@makerspace-gt.de
-
-## Maßnahmenangaben
-
-### Bezeichnung der Maßnahme/des Vorhabens
-
-MANUEL
-
-### Kurzbeschreibung
-
-Der Makerspace Gütersloh e.V. ist eine offene Werkstatt, in der Maschinen und Werkzeuge gemeinschaftlich erforscht und genutzt werden. Unter dem Motto »Mach doch, was du willst!« animieren wir Mitglieder, Gäste und interessierte Personen dazu, sich selbst kreativ auszuleben und neue Dinge zu erschaffen. Wir haben verschiedene Kenntnisse, von laienhaft interessiert bis professionell, und unterstützen uns einander bei Projekten, die wir alleine nicht umsetzen könnten.
-
-Seit März 2019 veranstalten wir monatliche Repair Cafés in Kooperation mit der Stadtbibliothek Gütersloh. Bei diesen helfen wir dabei, defekte Gegenstände zu reparieren oder Linux zu installieren. Durch das gemeinsame Reparieren setzen wir ein Zeichen gegen die Wegwerfgesellschaft und für einen schonenden Umgang mit Ressourcen.
-
-Seit November 2022 nutzen wir das Ticketsystem Zammad zur Organisation unserer Termine. Es hat sich als zentrale Plattform für die Kommunikation mit Dritten sowie zur Dokumentation von Reparaturergebnissen etabliert und kommt auch bei anderen Veranstaltungen wie den »Türen auf mit der Maus« zum Einsatz.
-
-Mit dem Projekt »MANUEL« möchten wir unser Engagement durch KI unterstützen.  
-MANUEL steht für:  
-Minimale  
-AI für  
-Nutzer-  
-Unterstützung auf  
-Einstiegs-  
-Level.
-
-MANUEL soll als Level-0-Support bei der Kategorisierung und Erstdiagnose von Anfragen unterstützen. Sie soll Lösungsansätze vorschlagen und Reparaturanleitungen im Wiki erstellen. Das befähigt neue Engagierte, sich mit wenigen Vorkenntnissen direkt einzubringen. So verbinden wir digitale Innovation mit praktischem Ehrenamt, um die lokale Gemeinschaft zu stärken. Zudem kann sie die Ergebnisse statistisch aufbereiten.
-
-Zu diesem Zweck soll ein Mac mini M4 gekauft werden. Aufgrund der Neural Engine Cores ist dies eine kostengünstige Option, um ein Large Language Model lokal und datenschutzfreundlich zu betreiben. Als Laufzeitumgebung für LLMs und als Schnittstelle zu Zammad kommt die Open-Source-Software Ollama zum Einsatz.
-
-### Durchführungszeitraum von
-
-01.05.2026
-
-### Durchführungszeitraum bis
-
-31.12.2026
-
-### (Haupt)Durchführungsort der Maßnahme (PLZ)
-
-33330
-
-### (Haupt)Durchführungsort der Maßnahme (Ort)
-
-Gütersloh
-
-## Finanzierungsplan
-
-|                                         |            |
-| --------------------------------------- | ---------: |
-| Höhe der finanziellen Beteiligung durch Dritte | 0,00 € |
-| Eigenanteil                             |   199,00 € |
-| Beantragte Zuwendung                    | 1.000,00 € |
-| Zuwendungsfähige Gesamtausgaben (gem. Anlage) | 1.199,00 € |
-
-## Erklärungen
-
-Die/ der Antragstellende erklärt, dass
-
-- mit der Maßnahme noch nicht begonnen wurde und auch vor Bekanntgabe des Zuwendungsbescheides nicht begonnen wird; als Vorhabenbeginn ist grundsätzlich der Abschluss eines der Ausführung zuzurechnenden Lieferungs- oder Leistungsvertrages zu werten.
-  - [x] Ja
-  - [ ] Nein
-- sie/ er zum ganzen oder teilweisen Vorsteuerabzug
-  - [x] nicht berechtigt ist,
-  - [ ] berechtigt ist und dies bei der Berechnung der Gesamtkosten berücksichtigt hat (Preise ohne abzugsfähige Umsatzsteuer),
-- [x] die Angaben in diesem Antrag (einschließlich Antragsunterlagen) vollständig und richtig sind,
-- [x] Mir bekannt ist, dass
-  - sämtliche in diesem Förderantrag gemachten Angaben sowie die in den beigefügten Anlagen/Vordrucke gemachten Angaben subventionserhebliche Tatsachen im Sinne des § 264 Abs. 9 StGB sind.
-  - sämtliche während und nach dem Ende der Maßnahme gemachten Angaben (postalisch oder elektronisch) und eingereichten Unterlagen (postalisch oder elektronisch), insbesondere die Angaben in dem Zwischennachweis und die Angaben in dem Verwendungsnachweis ebenfalls subventionserhebliche Tatsachen im Sinne des § 264 Abs. 9 StGB sind.
-  - die Regelungen des Zuwendungsbescheids und die ihm beigefügten allgemeinen und besonderen Nebenbestimmungen als eine Verwendungsbeschränkung im Sinne des § 264 Abs. 1 Nr. 2 StGB anzusehen sind.
-  - ich mich gemäß § 264 Abs. 1 StGB strafbar mache, wenn ich
-    - einer für die Bewilligung einer Subvention zuständigen Behörde oder einer anderen in das Subventionsverfahren eingeschalteten Stelle oder Person (Subventionsgeber) über subventionserhebliche Tatsachen für mich oder einen anderen unrichtige oder unvollständige Angaben mache, die für mich oder den anderen vorteilhaft sind,
-    - einen Gegenstand oder eine Geldleistung, deren Verwendung durch Rechtsvorschriften oder durch den Subventionsgeber im Hinblick auf eine Subvention beschränkt ist, entgegen der Verwendungsbeschränkung verwende,
-    - den Subventionsgeber entgegen den Rechtsvorschriften über die Subventionsvergabe über subventionserhebliche Tatsachen in Unkenntnis lasse oder
-    - in einem Subventionsverfahren eine durch unrichtige oder unvollständige Angaben erlangte Bescheinigung über eine Subventionsberechtigung oder über subventionserhebliche Tatsachen gebrauche.
-  - es für eine Strafbarkeit nach § 264 StGB nicht erforderlich ist, dass die Zuwendung für mich selbst beantragt wird oder dass die beantragte Zuwendung tatsächlich gewährt wird.
-
-## Dokumentenupload
-
-Es können noch 30 Dokument(e) oder 150.00 MB hochgeladen werden.
-
-| Dateibeschreibung | Dateiname |     |
-| :---------------- | :-------- | --- |
-|  Mac mini kaufen  | Screenshot 2026-03-22 at 08-59-57 Mac mini M4 Chip 10‑Core CPU 10‑Core GPU 32 GB Arbeitsspeicher 256 GB Speicher kaufen - Apple (DE).png | ![](./Screenshot%202026-03-22%20at%2008-59-57%20Mac%20mini%20M4%20Chip%2010‑Core%20CPU%2010‑Core%20GPU%2032%20GB%20Arbeitsspeicher%20256%20GB%20Speicher%20kaufen%20-%20Apple%20(DE).png)
-
-Keine Einträge vorhanden
-
-## Hinweis zum Datenschutz
-
-- [x] Ich habe die Hinweise zum Datenschutz zur Kenntnis genommen.
-
-Nur wenn die Förderung nicht durch eine juristische Person des öffentlichen Rechts beantragt wird:
-
-- [x] Im Falle einer Förderung stimme ich der Weitergabe und Veröffentlichung meiner Förderdaten (Bezeichnung des Förderprojektes, Vorname und Name der/des Geförderten, Förderhöhe) durch die Bewilligungsbehörde oder das zuständige Ministerium zu.
-
-## Einreichung des Antrags
-
-Mit Klick auf den Button „Zwischenstand speichern" gehen Ihre Eingaben nach dem Logout nicht verloren und Sie können den Antrag zu einem späteren Zeitpunkt weiter bearbeiten. Der Antrag ist auch nach der Speicherung weiterhin nur für Sie sichtbar.
-
-Mit Klick auf den rechten Button „Antrag online einreichen" wird der Antrag an die zuständige Behörde versendet. Bitte beachten Sie, dass den Antrag nach dem Einreichen nicht mehr bearbeiten können und die von Ihnen gemachten Eingaben der zuständigen Behörde unmittelbar zur Verfügung stehen. Mit der Einreichung wird aus Ihren Angaben eine PDF-Datei erzeugt, die Ihnen auch später jederzeit im Bereich "Meine Anträge" zum Download zur Verfügung steht.
-
-## Sachbericht
+### Wie bist Du auf die DATEV-Stiftung Zukunft aufmerksam geworden?
