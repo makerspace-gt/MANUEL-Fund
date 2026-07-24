@@ -170,17 +170,14 @@ Perspektivisch soll MANUEL im Makerspace außerdem als Chatbot Personen gezielt 
 
 ##### 3. Welche Meilensteine planst Du und hast Du gegebenenfalls schon erreicht?
 
-- Prototypischer Test von MANUEL auf vorhandener, langsamerer Hardware (bereits laufend)
-- Vorstellung erster Erfahrungen aus dem Prototyp und Austausch beim Netzwerktreffen „Wer repariert hier wen? Zur Rolle der KI in Reparatur-Initiativen" des Netzwerks Reparatur-Initiativen der anstiftung (17.09.2026, online)
-- Anschaffung und Einrichtung des Mac Studio mit Ollama
-- Anbindung an das bestehende Zammad-System
-- Testbetrieb im Repair Café und bei weiteren Veranstaltungen wie »Türen auf mit der Maus«
-- Auswertung und Dokumentation der Ergebnisse
-- Veröffentlichung von MANUEL als offen dokumentiertes Modellprojekt zur Nachnutzung durch andere Reparaturinitiativen
-- Vorstellung der Projektergebnisse zum 10. Internationalen Repair Day (17.10.2027, weltweit)
-- Teilnahme am Repair & Share Festival des Repair Café Wuppertal (31.10.2027, Wuppertal)
-
-Bereits vorhanden ist die Basis dafür: das seit 2022 etablierte Zammad-System sowie der laufende Repair-Café-Betrieb seit 2019.
+- Prototypischer Test von MANUEL auf einem älteren Computer (08/2026 bis 10/2026)
+- Vorstellung erster Erfahrungen aus dem Prototyp und Austausch beim Netzwerktreffen „Wer repariert hier wen? Zur Rolle der KI in Reparatur-Initiativen" des Netzwerks Reparatur-Initiativen der anstiftung (17.09.2026)
+- Anschaffung und Einrichtung des Mac Studio (11/2026)
+- Produktivbetrieb im Repair Café (ab 02/2027)
+- Prototypischer Test von OpenClaw, Hermes Agent und ggf. weiteren agentischen Systemen zur Evaluierung für den perspektivischen Einsatz im Makerspace (06/2027–08/2027)
+- Datenübermittlung an die Open Repair Alliance (ab 05/2027)
+- Veröffentlichung von MANUEL als offen dokumentiertes Modellprojekt zur Nachnutzung durch andere Reparaturinitiativen (09/2027)
+- Bericht von 1-Jahr-MANUEL auf dem Repair & Share Festival in Wuppertal (31.10.2027)
 
 ##### 4. Wie stellst Du die Messbarkeit des Projekterfolges sicher?
 
