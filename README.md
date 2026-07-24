@@ -131,21 +131,25 @@ Bitte gehe explizit auf folgende Fragen ein:
 
 ##### 1. Welches Problem soll das Projekt lösen? Welche Zielsetzung verfolgst Du?
 
-Der Makerspace Gütersloh e.V. ist eine offene Werkstatt, in der Maschinen und Werkzeuge gemeinschaftlich erforscht und genutzt werden. Unter dem Motto »Mach doch, was du willst!« animieren wir Mitglieder, Gäste und interessierte Personen dazu, sich selbst kreativ auszuleben und neue Dinge zu erschaffen.
+Der Makerspace Gütersloh e.V. ist eine offene Werkstatt, in der Maschinen und Werkzeuge gemeinschaftlich erforscht und genutzt werden. Unter dem Motto »Mach doch, was du willst!« animieren wir Mitglieder, Gäste und interessierte Personen dazu, sich selbst kreativ auszuleben und neue Dinge zu erschaffen. Wir haben verschiedene Kenntnisse, von laienhaft interessiert bis professionell, und unterstützen uns einander bei Projekten, die wir alleine nicht umsetzen könnten.
 
-Seit März 2019 veranstalten wir monatliche Repair Cafés in Kooperation mit der Stadtbibliothek Gütersloh, seit November 2022 nutzen wir dafür das Ticketsystem Zammad zur Organisation und Dokumentation. Neue Engagierte tun sich ohne Vorkenntnisse oft schwer damit, Anfragen zu kategorisieren und eine Erstdiagnose zu stellen. Mit MANUEL (Minimale AI für Nutzer-Unterstützung auf Einstiegs-Level) wollen wir dieses Einstiegshindernis abbauen und unser ehrenamtliches Engagement durch lokale KI unterstützen, damit sich neue Engagierte mit wenigen Vorkenntnissen direkt einbringen können.
+Seit März 2019 veranstalten wir monatliche Repair Cafés in Kooperation mit der Stadtbibliothek Gütersloh. Bei diesen helfen wir dabei, defekte Gegenstände zu reparieren oder Linux zu installieren. Durch das gemeinsame Reparieren setzen wir ein Zeichen gegen die Wegwerfgesellschaft und für einen schonenden Umgang mit Ressourcen.
 
-Auch unsere Gäste sollen direkt profitieren: Statt nur auf Ehrenamtliche zu warten, soll MANUEL ihnen eigenständig verständliche Reparaturanleitungen an die Hand geben, damit sie mehr selbst reparieren können. Das entlastet unsere Engagierten und befähigt gleichzeitig mehr Menschen zum Selbermachen.
+Gästen und neuen Engagierten fällt es schwer, sich mit wenigen Vorkenntnissen direkt einzubringen und selbständig tätig zu werden.
+Mit dem Projekt »MANUEL« möchten wir dieses Problem angehen und unser Engagement durch KI unterstützen.  
+MANUEL steht für:  
+Minimale  
+AI für  
+Nutzer-  
+Unterstützung auf  
+Einstiegs-  
+Level.
 
-Dabei ist die Nutzung bei uns nicht ganz trennscharf: Der Mac Studio dient einerseits dem Repair Café, andererseits auch als offene Spielwiese für Mitglieder, die sich unabhängig davon mit KI auseinandersetzen möchten. Denkbar ist zum Beispiel, dass wir MANUEL auch nutzen, um Diskussionen aus unseren Chats und unserem Forum zu Wiki-Artikeln zusammenzufassen und Mitglieder so einfacher zu informieren.
+MANUEL soll als Level-0-Support bei der Kategorisierung und Erstdiagnose von Anfragen unterstützen. Sie soll Lösungsansätze vorschlagen und Reparaturanleitungen im Wiki erstellen. So verbinden wir digitale Innovation mit praktischem Ehrenamt, um die lokale Gemeinschaft zu stärken. Zudem kann sie die Ergebnisse statistisch aufbereiten, damit sie in die Datenbank der Open Repair Alliance einfließen können.
 
-Ein weiterer Anwendungsfall wäre die Vernetzung innerhalb des Vereins: MANUEL könnte Mitglieder gezielt zueinander vermitteln – wer verfügt über welche Kenntnisse und kann bei einem Anliegen weiterhelfen? Welche Werkzeuge und Maschinen stehen im Verein überhaupt zur Verfügung? So würde MANUEL nicht nur im Repair Café, sondern auch für den Zusammenhalt und die gegenseitige Unterstützung innerhalb des Vereins wirken.
+Wenn sich MANUEL im Repair Café bewährt, wollen wir sie perspektivisch auch im Makerspace selbst einsetzen. Als offene Werkstatt sind wir keine geschlossene Gesellschaft, sondern ein Dritter Ort, der Mitgliedern, Gästen und interessierten Personen unentgeltlich zugänglich ist. Bei rund 40 Mitgliedern haben wir das Problem, dass nur wenige Personen über umfassendes Wissen zu unseren Möglichkeiten verfügen. Um diese Personen zu entlasten und Mitglieder, Gäste und interessierte Personen gezielt zueinander zu vermitteln, soll MANUEL aus Chats, Forum, E-Mail und Wiki die Mitglieder kennenlernen und Informationen über den Verein sammeln. So kann sie als Chatbot Auskunft über die Fragen »Wer verfügt über welche Kenntnisse und kann bei einem Anliegen weiterhelfen?« und »Welche Werkzeuge und Maschinen stehen im Verein überhaupt zur Verfügung?« geben. Damit stärken wir den gesellschaftlichen Zusammenhalt, der für einen Dritten Ort wie unseren charakteristisch ist.
 
-Damit entlasten wir die wenigen Personen im Verein, die ein umfassendes Wissen über unsere Möglichkeiten haben, und ermöglichen es gleichzeitig einer breiten Menge an Mitgliedern und Gästen, die Angebote des Vereins einfach zu nutzen und bei Bedarf gezielt nachzufragen. Bei nur rund 40 Mitgliedern ist diese Hebelwirkung für uns besonders wertvoll: Mit wenig ehrenamtlicher Kapazität erreichen wir über das monatliche Repair Café, unsere Gäste und das überregionale Netzwerk deutlich mehr Menschen, als unsere Mitgliederzahl vermuten lässt. Es zeigt sich, dass viele Menschen heute lieber eine KI wie ChatGPT fragen, als eine Website zu lesen. Diesen Trend wollen wir aufgreifen – aber mit Substanz, also auf Basis unserer eigenen, verlässlichen Daten statt allgemeiner Vermutungen.
-
-Dass unser Ansatz über Gütersloh hinaus Anklang findet, zeigt sich schon jetzt: Über unsere öffentliche Präsenz in Forum und GitHub wurden wir bereits von anderen Initiativen aus Deutschland angeschrieben, die sich mit uns austauschen möchten.
-
-Wie KI verantwortungsvoll im Reparieren eingesetzt werden kann, beschäftigt derzeit die gesamte Reparatur-Bewegung – auch das bundesweite Netzwerk Reparatur-Initiativen der anstiftung widmet sich dieser Frage. Mit MANUEL sammeln wir dazu eigene praktische Erfahrungen und tragen sie in diesen überregionalen Austausch hinein.
+Und nicht zuletzt kann MANUEL generell als Spielwiese für diejenigen zugänglich sein, die ihre Kompetenzen mit souveräner KI aufbauen und erweitern wollen.
 
 ##### 2. Wie erreichst Du Dein Ziel? Mit welchen Maßnahmen?
 
