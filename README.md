@@ -100,7 +100,7 @@ Bitte ordne Dein Projekt unseren Förderbereichen zu.
   - Frage nach digitaler Identität
   - Datenschutz im (inter-)nationalen Kontext
 - [x] Anforderungen an eine digitale Berufs- und Arbeitswelt  
-  Mit der Digitalisierung. bleiben die Berufsbilder, wie wir sie heute kennen, nicht bestehen. Alle Berufsbilder erleben einen Wandel, teilweise sogar disruptiv. Damit verändern sich auch die Hard- und Softskills, die von zukünftigen Arbeit- nehmern beherrscht werden müssen.
+  Mit der Digitalisierung bleiben die Berufsbilder, wie wir sie heute kennen, nicht bestehen. Alle Berufsbilder erleben einen Wandel, teilweise sogar disruptiv. Damit verändern sich auch die Hard- und Softskills, die von zukünftigen Arbeit- nehmern beherrscht werden müssen.
   
   Diese sind unter anderem:
   - Durchführung von automatisierten Dienstanalysen
@@ -171,7 +171,7 @@ Perspektivisch soll MANUEL im Makerspace außerdem als Chatbot Personen gezielt 
 ##### 3. Welche Meilensteine planst Du und hast Du gegebenenfalls schon erreicht?
 
 - Prototypischer Test von MANUEL auf einem älteren Computer (08/2026 bis 10/2026)
-- Vorstellung erster Erfahrungen aus dem Prototyp und Austausch beim Netzwerktreffen „Wer repariert hier wen? Zur Rolle der KI in Reparatur-Initiativen" des Netzwerks Reparatur-Initiativen der anstiftung (17.09.2026)
+- Vorstellung erster Erfahrungen aus dem Prototyp und Austausch beim Netzwerktreffen »Wer repariert hier wen? Zur Rolle der KI in Reparatur-Initiativen« des Netzwerks Reparatur-Initiativen der anstiftung (17.09.2026)
 - Anschaffung und Einrichtung des Mac Studio (11/2026)
 - Produktivbetrieb im Repair Café (ab 02/2027)
 - Prototypischer Test von OpenClaw, Hermes Agent und ggf. weiteren agentischen Systemen zur Evaluierung für den perspektivischen Einsatz im Makerspace (06/2027–08/2027)
