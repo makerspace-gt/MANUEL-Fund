@@ -46,7 +46,9 @@ Bitte gib Deine Kontaktdaten an, damit wir Dich ggf. kontaktieren können.
 
 #### Institution inkl. Rechtsform des Antragstellers
 
-Makerspace Gütersloh e.V.
+Bitte ordne Dein Projekt unseren Förderbereichen zu.
+
+#### In welchem Förderbereich der DATEV-Stiftung Zukunft findest Du Dein Projekt/Deine Organisation wieder? (Mehrfachauswahl möglich)
 
 #### Telefonnummer
 
@@ -100,7 +102,7 @@ Bitte ordne Dein Projekt unseren Förderbereichen zu.
   - Frage nach digitaler Identität
   - Datenschutz im (inter-)nationalen Kontext
 - [x] Anforderungen an eine digitale Berufs- und Arbeitswelt  
-  Mit der Digitalisierung. bleiben die Berufsbilder, wie wir sie heute kennen, nicht bestehen. Alle Berufsbilder erleben einen Wandel, teilweise sogar disruptiv. Damit verändern sich auch die Hard- und Softskills, die von zukünftigen Arbeit- nehmern beherrscht werden müssen.
+  Mit der Digitalisierung bleiben die Berufsbilder, wie wir sie heute kennen, nicht bestehen. Alle Berufsbilder erleben einen Wandel, teilweise sogar disruptiv. Damit verändern sich auch die Hard- und Softskills, die von zukünftigen Arbeit- nehmern beherrscht werden müssen.
   
   Diese sind unter anderem:
   - Durchführung von automatisierten Dienstanalysen
@@ -123,7 +125,7 @@ Erzähle uns von Deinem Projekt oder Deiner Idee.
 
 #### Wie heißt Dein Projekt?
 
-MANUEL
+##### 3. Welche Meilensteine planst Du und hast Du gegebenenfalls schon erreicht?
 
 #### Kurzbeschreibung Deines Projekts
 
@@ -131,67 +133,79 @@ Bitte gehe explizit auf folgende Fragen ein:
 
 ##### 1. Welches Problem soll das Projekt lösen? Welche Zielsetzung verfolgst Du?
 
-Der Makerspace Gütersloh e.V. ist eine offene Werkstatt, in der Maschinen und Werkzeuge gemeinschaftlich erforscht und genutzt werden. Unter dem Motto »Mach doch, was du willst!« animieren wir Mitglieder, Gäste und interessierte Personen dazu, sich selbst kreativ auszuleben und neue Dinge zu erschaffen.
-
-Seit März 2019 veranstalten wir monatliche Repair Cafés in Kooperation mit der Stadtbibliothek Gütersloh, seit November 2022 nutzen wir dafür das Ticketsystem Zammad zur Organisation und Dokumentation. Neue Engagierte tun sich ohne Vorkenntnisse oft schwer damit, Anfragen zu kategorisieren und eine Erstdiagnose zu stellen. Mit MANUEL (Minimale AI für Nutzer-Unterstützung auf Einstiegs-Level) wollen wir dieses Einstiegshindernis abbauen und unser ehrenamtliches Engagement durch lokale KI unterstützen, damit sich neue Engagierte mit wenigen Vorkenntnissen direkt einbringen können.
-
-Auch unsere Gäste sollen direkt profitieren: Statt nur auf Ehrenamtliche zu warten, soll MANUEL ihnen eigenständig verständliche Reparaturanleitungen an die Hand geben, damit sie mehr selbst reparieren können. Das entlastet unsere Engagierten und befähigt gleichzeitig mehr Menschen zum Selbermachen.
-
-Dabei ist die Nutzung bei uns nicht ganz trennscharf: Der Mac Studio dient einerseits dem Repair Café, andererseits auch als offene Spielwiese für Mitglieder, die sich unabhängig davon mit KI auseinandersetzen möchten. Denkbar ist zum Beispiel, dass wir MANUEL auch nutzen, um Diskussionen aus unseren Chats und unserem Forum zu Wiki-Artikeln zusammenzufassen und Mitglieder so einfacher zu informieren.
-
-Ein weiterer Anwendungsfall wäre die Vernetzung innerhalb des Vereins: MANUEL könnte Mitglieder gezielt zueinander vermitteln – wer verfügt über welche Kenntnisse und kann bei einem Anliegen weiterhelfen? Welche Werkzeuge und Maschinen stehen im Verein überhaupt zur Verfügung? So würde MANUEL nicht nur im Repair Café, sondern auch für den Zusammenhalt und die gegenseitige Unterstützung innerhalb des Vereins wirken.
-
-Damit entlasten wir die wenigen Personen im Verein, die ein umfassendes Wissen über unsere Möglichkeiten haben, und ermöglichen es gleichzeitig einer breiten Menge an Mitgliedern und Gästen, die Angebote des Vereins einfach zu nutzen und bei Bedarf gezielt nachzufragen. Bei nur rund 40 Mitgliedern ist diese Hebelwirkung für uns besonders wertvoll: Mit wenig ehrenamtlicher Kapazität erreichen wir über das monatliche Repair Café, unsere Gäste und das überregionale Netzwerk deutlich mehr Menschen, als unsere Mitgliederzahl vermuten lässt. Es zeigt sich, dass viele Menschen heute lieber eine KI wie ChatGPT fragen, als eine Website zu lesen. Diesen Trend wollen wir aufgreifen – aber mit Substanz, also auf Basis unserer eigenen, verlässlichen Daten statt allgemeiner Vermutungen.
-
-Dass unser Ansatz über Gütersloh hinaus Anklang findet, zeigt sich schon jetzt: Über unsere öffentliche Präsenz in Forum und GitHub wurden wir bereits von anderen Initiativen aus Deutschland angeschrieben, die sich mit uns austauschen möchten.
-
-Wie KI verantwortungsvoll im Reparieren eingesetzt werden kann, beschäftigt derzeit die gesamte Reparatur-Bewegung – auch das bundesweite Netzwerk Reparatur-Initiativen der anstiftung widmet sich dieser Frage. Mit MANUEL sammeln wir dazu eigene praktische Erfahrungen und tragen sie in diesen überregionalen Austausch hinein.
-
-##### 2. Wie erreichst Du Dein Ziel? Mit welchen Maßnahmen?
-
-Wir schaffen einen Mac Studio (M4 Max, 14-Core CPU, 32-Core GPU, 36 GB Arbeitsspeicher) an, der aufgrund seiner Neural Engine Cores kostengünstig ein Large Language Model lokal und datenschutzfreundlich betreiben kann. Als Laufzeitumgebung für das LLM und Schnittstelle zu Zammad kommt die Open-Source-Software Ollama zum Einsatz. MANUEL unterstützt als Level-0-Support bei Kategorisierung und Erstdiagnose von Anfragen, schlägt Lösungsansätze vor, erstellt Reparaturanleitungen im Wiki und bereitet Ergebnisse statistisch auf.
-
-Darüber hinaus soll MANUEL Gästen direkt am Repair Café verständliche Schritt-für-Schritt-Anleitungen zu ihrem Reparaturanliegen liefern, sodass sie selbst Hand anlegen können statt ausschließlich auf freie Kapazitäten unserer Ehrenamtlichen zu warten. Als Quelle für diese Reparaturanleitungen nutzen wir die offenen Daten der [Open Repair Alliance](https://openrepair.org/open-data/downloads/).
-
-Die dabei gewonnenen Erkenntnisse zum verantwortungsvollen KI-Einsatz im Ehrenamt teilen wir aktiv mit anderen Reparaturinitiativen, unter anderem über das Netzwerk Reparatur-Initiativen der anstiftung.
-
-Weil MANUEL lokal statt in der Cloud betrieben wird, bleiben alle Anfragedaten bei uns – das stärkt die digitale Souveränität und Selbstbestimmung im digitalen Raum sowohl unserer Engagierten als auch unserer Gäste.
-
-Die lokale Anschaffung ist auch wirtschaftlich die robustere Wahl: Es ist zu erwarten, dass die Kosten für die Nutzung kommerzieller Cloud-KI-Angebote deutlich steigen werden, während der Mac Studio einmalig angeschafft wird und danach ohne laufende Nutzungskosten arbeitet. Zudem liegen frei verfügbare Open-Weight-Modelle inzwischen nur noch etwa ein halbes Jahr hinter kommerziellen Modellen zurück und sind damit für unseren Anwendungsfall bereits ausreichend leistungsfähig. Werkzeuge wie OpenClaw und der Hermes Agent, die auf solchen offenen Modellen aufbauen, haben sich in der Maker-Szene bereits etabliert – MANUEL reiht sich damit in eine wachsende Praxis lokaler, quelloffener KI-Nutzung im Ehrenamt ein.
-
-Bereits vor der Anschaffung des Mac Studio testen wir MANUEL prototypisch auf vorhandener, langsamerer Hardware. So sammeln wir erste praktische Erfahrungen, noch bevor die eigentliche Fördermaßnahme beginnt. Dabei testen wir auch, welche Modelle für unseren Anwendungsfall gut geeignet sind – dabei kann sich auch zeigen, dass für einzelne Anwendungsfälle bereits einfachere Hardware wie ein Mac mini mit 16 GB RAM ausreicht.
-
-Damit MANUEL auch anderen Reparaturinitiativen zugutekommt, dokumentieren und veröffentlichen wir den gesamten Aufbau – Hardware-Konfiguration, Ollama-Setup, Prompts und Zammad-Anbindung – offen als Modellprojekt. Auch unsere Erkenntnisse zu den getesteten Hardware- und Modellgrößen fließen dort ein, damit Initiativen mit unterschiedlichem Budget die für sie passende Ausstattung wählen können.
-
-##### 3. Welche Meilensteine planst Du und hast Du gegebenenfalls schon erreicht?
-
-- Prototypischer Test von MANUEL auf vorhandener, langsamerer Hardware (bereits laufend)
-- Vorstellung erster Erfahrungen aus dem Prototyp und Austausch beim Netzwerktreffen „Wer repariert hier wen? Zur Rolle der KI in Reparatur-Initiativen" des Netzwerks Reparatur-Initiativen der anstiftung (17.09.2026, online)
-- Anschaffung und Einrichtung des Mac Studio mit Ollama
-- Anbindung an das bestehende Zammad-System
-- Testbetrieb im Repair Café und bei weiteren Veranstaltungen wie »Türen auf mit der Maus«
-- Auswertung und Dokumentation der Ergebnisse
-- Veröffentlichung von MANUEL als offen dokumentiertes Modellprojekt zur Nachnutzung durch andere Reparaturinitiativen
-- Vorstellung der Projektergebnisse zum 10. Internationalen Repair Day (17.10.2027, weltweit)
-- Teilnahme am Repair & Share Festival des Repair Café Wuppertal (31.10.2027, Wuppertal)
-
 Bereits vorhanden ist die Basis dafür: das seit 2022 etablierte Zammad-System sowie der laufende Repair-Café-Betrieb seit 2019.
 
 ##### 4. Wie stellst Du die Messbarkeit des Projekterfolges sicher?
 
-Da Zammad bereits zur Dokumentation genutzt wird, lässt sich der Projekterfolg direkt anhand vorhandener Kennzahlen messen: Anzahl und Bearbeitungsdauer der durch MANUEL vorkategorisierten Anfragen, Anteil neuer Engagierter, die eigenständig Anfragen bearbeiten, sowie die statistische Auswertung der Repair-Café-Ergebnisse. Zusätzlich erfassen wir, wie viele Gäste anhand einer MANUEL-Anleitung ihre Reparatur selbst durchführen konnten. Hinzu kommt das qualitative Feedback aus dem Austausch mit anderen Reparaturinitiativen beim Netzwerktreffen im September. Den gesamten Projektverlauf dokumentieren wir fortlaufend in unserem öffentlichen Wiki. Die im Repair Café erfassten Reparaturdaten fließen zusätzlich an reparatur-initiativen.de, die sie ihrerseits an die Open Repair Alliance weiterleitet – so schließt sich der Kreis zwischen der Datenquelle für MANUELs Anleitungen und den daraus entstehenden neuen Reparaturdaten.
+Gästen und neuen Engagierten fällt es schwer, sich mit wenigen Vorkenntnissen direkt einzubringen und selbständig tätig zu werden.
+Mit dem Projekt »MANUEL« möchten wir dieses Problem angehen und unser Engagement durch KI unterstützen.  
+MANUEL steht für:  
+Minimale  
+AI für  
+Nutzer-  
+Unterstützung auf  
+Einstiegs-  
+Level.
+
+MANUEL soll als Level-0-Support bei der Kategorisierung und Erstdiagnose von Anfragen unterstützen. Sie soll Lösungsansätze vorschlagen und Reparaturanleitungen im Wiki erstellen. So verbinden wir digitale Innovation mit praktischem Ehrenamt, um die lokale Gemeinschaft zu stärken. Zudem kann sie die Ergebnisse statistisch aufbereiten, damit sie in die Datenbank der Open Repair Alliance einfließen können.
+
+Wenn sich MANUEL im Repair Café bewährt, wollen wir sie perspektivisch auch im Makerspace selbst einsetzen. Als offene Werkstatt sind wir keine geschlossene Gesellschaft, sondern ein Dritter Ort, der Mitgliedern, Gästen und interessierten Personen unentgeltlich zugänglich ist. Bei rund 40 Mitgliedern haben wir das Problem, dass nur wenige Personen über umfassendes Wissen zu unseren Möglichkeiten verfügen. Um diese Personen zu entlasten und Mitglieder, Gäste und interessierte Personen gezielt zueinander zu vermitteln, soll MANUEL aus Chats, Forum, E-Mail und Wiki die Mitglieder kennenlernen und Informationen über den Verein sammeln. So kann sie als Chatbot Auskunft über die Fragen »Wer verfügt über welche Kenntnisse und kann bei einem Anliegen weiterhelfen?« und »Welche Werkzeuge und Maschinen stehen im Verein überhaupt zur Verfügung?« geben. Damit stärken wir den gesellschaftlichen Zusammenhalt, der für einen Dritten Ort wie unseren charakteristisch ist.
+
+Und nicht zuletzt kann MANUEL generell als Spielwiese für diejenigen zugänglich sein, die ihre Kompetenzen mit souveräner KI aufbauen und erweitern wollen.
+
+##### 2. Wie erreichst Du Dein Ziel? Mit welchen Maßnahmen?
+
+Seit November 2022 nutzen wir das Ticketsystem Zammad zur Organisation unserer Termine. Es hat sich als zentrale Plattform für die Kommunikation mit Dritten und zur Dokumentation von Reparaturergebnissen etabliert. Mit der Version 7.0, die im April 2026 erschienen ist, unterstützt Zammad nativ den Einsatz von KI. Dadurch wird die geplante Anbindung von MANUEL technisch jetzt sinnvoll umsetzbar.
+
+Wir schaffen einen Mac Studio (M4 Max, 14-Core CPU, 32‑Core GPU, 16-Core Neural Engine, 36GB Unified Memory) an, der aufgrund seiner Neural Engine Cores kostengünstig ein Large Language Model lokal und datenschutzfreundlich betreiben kann. Als Laufzeitumgebung für das LLM und als Schnittstelle zu Zammad kommt die Open-Source-Software Ollama zum Einsatz. Mit 36GB Unified Memory können wir sowohl größere Modelle als auch mehrere kleinere Modelle parallel betreiben. So finden wir heraus, welches Modell mit welchem Prompt für diesen Einsatz am besten geeignet ist.
+
+Bereits vor der Anschaffung des Mac Studio werden wir MANUEL prototypisch auf einem älteren Computer testen. Dies lässt nur kleinere Modelle zu und wird aufgrund des höheren Stromverbrauchs auch nicht 24/7 laufen. Dennoch bietet es uns die Möglichkeit, uns mit der KI-Anbindung von Zammad vertraut zu machen. Wir lernen, wie wir ...
+- die Daten aus der Datenbank der Open Repair Alliance und aus unserem Wiki als Quelle einstellen.
+- Nachrichten in einem zu uns passenden Stil formulieren, die auch für Laien verständlich sind.
+- die Daten mit den richtigen Werten in die richtigen Felder schreiben, um sie anschließend in die Datenbank der Open Repair Alliance einzuspeisen.
+
+Dass wir MANUEL lokal statt in der Cloud betreiben wollen, hat zwei Hintergründe.  
+Zum einen bleiben alle Anfragedaten bei uns. Das stärkt die digitale Souveränität und Selbstbestimmung im digitalen Raum sowohl unserer Engagierten als auch unserer Gäste. Wir engagieren uns zudem beim Digital Independence Day, der jeden ersten Sonntag im Monat dazu aufruft, sich von der Marktmacht weniger US-amerikanischer Tech-Konzerne unabhängig zu machen. Dazu würde es nicht passen, für MANUEL selbst auf deren Cloud-KI-Angebote zurückzugreifen.  
+Zum anderen ist zu erwarten, dass die Kosten für die Nutzung kommerzieller Cloud-KI-Angebote deutlich steigen werden. Der Mac Studio wird dagegen einmalig angeschafft und arbeitet danach mit geringen laufenden Nutzungskosten. Die frei verfügbaren Open-Weight-Modelle liegen inzwischen nur noch etwa ein halbes Jahr hinter kommerziellen Modellen zurück und sind damit für unseren Anwendungsfall bereits ausreichend leistungsfähig.
+
+Perspektivisch soll MANUEL im Makerspace außerdem als Chatbot Personen gezielt zueinander vermitteln und Fragen zu Werkzeugen und Maschinen beantworten. Dazu wollen wir die derzeit sehr gehypten Werkzeuge OpenClaw und Hermes Agent testen.
+
+##### 3. Welche Meilensteine planst Du und hast Du gegebenenfalls schon erreicht?
+
+- Prototypischer Test von MANUEL auf einem älteren Computer (08/2026 bis 10/2026)
+- Vorstellung erster Erfahrungen aus dem Prototyp und Austausch beim Netzwerktreffen »Wer repariert hier wen? Zur Rolle der KI in Reparatur-Initiativen« des Netzwerks Reparatur-Initiativen der anstiftung (17.09.2026)
+- Anschaffung und Einrichtung des Mac Studio (11/2026)
+- Produktivbetrieb im Repair Café (ab 02/2027)
+- Prototypischer Test von OpenClaw, Hermes Agent und ggf. weiteren agentischen Systemen zur Evaluierung für den perspektivischen Einsatz im Makerspace (06/2027–08/2027)
+- Datenübermittlung an die Open Repair Alliance (ab 05/2027)
+- Veröffentlichung von MANUEL als offen dokumentiertes Modellprojekt zur Nachnutzung durch andere Reparaturinitiativen (09/2027)
+- Bericht von 1-Jahr-MANUEL auf dem Repair & Share Festival in Wuppertal (31.10.2027)
+
+##### 4. Wie stellst Du die Messbarkeit des Projekterfolges sicher?
+
+Da Zammad bereits zur Dokumentation genutzt wird, lässt sich der Projekterfolg anhand vorhandener und neuer Kennzahlen messen.
+
+- Erfolgsquote der Reparaturen im Repair Café
+- Anzahl neuer Engagierter, die eigenständig Anfragen bearbeiten
+- Anzahl der Reparaturen, die Gäste anhand einer MANUEL-Anleitung weitesgehend allein durchgeführt haben
+- Feedback zu den KI-Vorschlägen über die in Zammad integrierte Feedback-Funktion
+- Anzahl der an die Open Repair Alliance gemeldeten Reparaturen
+- Direkte Befragungen der Engagierten und Gäste beim Repair Café
+- Qualitatives Feedback aus dem Austausch mit anderen Reparaturinitiativen, etwa beim Netzwerktreffen im September oder bei der Reparaturpause des Netzwerks Reparatur-Initiativen
+
+Für den perspektivischen Einsatz im Makerspace selbst ist die Erfassung von Kennzahlen nicht ganz so leicht. Ein Projekterfolg lässt sich ggf. anhand der Tage und Stunden der Werkstattnutzung, den geposteten Projekten im Forum, der Anzahl an Wiki Artikeln oder der Anzahl an neuen Mitgliedern herleiten.
 
 ##### 5. Warum sollten wir Dich fördern? Wie passt Dein Projekt mit der DATEV-Stiftung Zukunft zusammen?
 
-MANUEL verbindet digitale Innovation mit praktischem Ehrenamt: Es vermittelt digitale Kompetenzen, KI-Verständnis und Future Skills an Engagierte ohne Vorkenntnisse und stärkt so die lokale Gemeinschaft. Gleichzeitig befähigt MANUEL auch unsere Gäste direkt zum Selbermachen, indem es ihnen eigenständig verständliche Reparaturanleitungen liefert – MANUEL wirkt also nicht nur nach innen auf unser Ehrenamt, sondern unmittelbar in die Bürgerschaft hinein. Durch den lokalen, datenschutzfreundlichen Betrieb des LLM setzen wir zudem ein Zeichen für Datensouveränität statt Cloud-KI. Über die Vorstellung beim bundesweiten Netzwerk Reparatur-Initiativen der anstiftung tragen wir unsere Erfahrungen zudem in den Wissens- und Ideentransfer mit anderen Ehrenamtsstrukturen hinein – MANUEL bleibt also kein rein internes Werkzeug, sondern wirkt in die Zivilgesellschaft hinein. Als offen dokumentiertes Modellprojekt kann MANUEL zudem von anderen Reparaturinitiativen mit vergleichbarer Infrastruktur direkt nachgenutzt werden, wodurch der Fördereffekt weit über unseren eigenen Verein hinausreicht. Damit ist MANUEL praxisnah und zugänglich, innovativ und übertragbar sowie mit gesellschaftlichem Mehrwert verbunden – genau den Kriterien, nach denen die DATEV-Stiftung Zukunft fördert. Das passt zu den Förderschwerpunkten „Anforderungen an eine digitale Berufs- und Arbeitswelt" (Umgang mit künstlicher Intelligenz) und „Digitale Vernetzung und Formen der Zusammenarbeit" der DATEV-Stiftung Zukunft.
+MANUEL setzt die genossenschaftliche Idee der DATEV-Stiftung Zukunft um, dass Fortschritt entsteht, wenn Menschen ihr Wissen teilen und gemeinsam Lösungen entwickeln. Das ist auch unser eigener Antrieb als offene Werkstatt. Mit MANUEL übertragen wir dieses Prinzip auf den Einsatz von KI und finden uns damit in allen drei Förderbereichen der Stiftung wieder. Weil wir MANUEL lokal statt in der Cloud betreiben, bleiben alle Anfragedaten bei uns und stärken so die digitale Souveränität und Selbstbestimmung im digitalen Raum, die der Bereich IT-Sicherheit und Datenschutz beschreibt. MANUEL vermittelt digitale Kompetenzen und den verantwortungsvollen Umgang mit künstlicher Intelligenz an Engagierte mit wenig oder ohne Vorkenntnisse und bereitet sie so auf die digitale Berufs- und Arbeitswelt vor. Über die Vorstellung beim Netzwerk Reparatur-Initiativen der anstiftung sowie die geplante Veröffentlichung als Modellprojekt tragen wir außerdem zum Wissens- und Ideentransfer zwischen Ehrenamtsstrukturen bei, das ist digitale Vernetzung und Zusammenarbeit über unseren eigenen Verein hinaus.
 
-Wir listen erhaltene Förderungen auf unserer Website öffentlich auf und legen generell transparent offen, wie unsere IT-Infrastruktur aufgebaut ist – eine Förderung durch die DATEV-Stiftung Zukunft würde dort ebenso sichtbar gemacht.
+MANUEL ist dabei ausdrücklich keine interne Digitalisierungsmaßnahme unseres Vereins, sondern liefert auch unseren Gästen eigenständig verständliche Reparaturanleitungen und wirkt so direkt in die Bürgerschaft hinein. Über die monatlichen Repair Cafés, unsere Gäste und das überregionale Netzwerk erreichen wir mit wenig ehrenamtlicher Kapazität deutlich mehr Menschen, als unsere Mitgliederzahl vermuten lässt. Jeder Euro Förderung wirkt damit weit über unseren eigenen Verein hinaus. Als offen dokumentiertes Modellprojekt veröffentlichen wir zudem Hardware-Konfiguration, Ollama-Setup, Prompts und Zammad-Anbindung, damit andere Reparaturinitiativen MANUEL direkt nachnutzen können. Dass dieser Ansatz über Gütersloh hinaus Anklang findet, merken wir bereits jetzt. Über unsere öffentliche Präsenz in Forum und GitHub wurden wir schon mehrfach von anderen Initiativen aus Deutschland angeschrieben und um Rat und Erfahrungswerte gebeten.
 
-Wir stimmen zu, dass die DATEV-Stiftung Zukunft im Falle einer Förderung in ihrer eigenen Kommunikation öffentlich über MANUEL informieren darf.
+Wir leben das Motto »Tue Gutes und rede darüber«. Transparenz ist uns wichtig, deshalb listen wir öffentlich auf, wer uns unterstützt, und legen offen, wie wir unsere IT-Infrastruktur betreiben. Diese Förderung würde dort ebenso sichtbar gemacht. Deshalb freuen wir uns sehr, dass auch die DATEV-Stiftung Zukunft im Falle einer Förderung öffentlich über MANUEL informieren wird.
 
 ##### Projektzeitraum (MM/JJJJ-MM/JJJJ)
 
-11/2026-10/2027
+08/2026-10/2027
 
 ### Finanzbedarf
 
@@ -199,7 +213,7 @@ In welchem finanziellen Rahmen bewegt sich Dein Förderantrag?
 
 #### Benötigte Fördersumme
 
-2.500,00 €
+2.759,00 €
 
 #### Finanzierungsbedarf
 
@@ -219,7 +233,7 @@ https://www.apple.com/de-edu/shop/buy-mac/mac-studio/m4-max-chip-14-core-cpu-32%
 
 #### Welche Organisationen/Stiftungen/Großspender unterstützen Dein Vorhaben/Deine Organisation zusätzlich?
 
-Für dieses Projekt gibt es keine zusätzliche Unterstützung.
+Für dieses Projekt gibt es keine zusätzliche Unterstützung. Sollte nur eine Teilfinanzierung möglich sein, wird die Differenz aus eigenen Mitteln gedeckt.
 
 In der Vergangenheit wurde unser Repair Café durch das Landesprogramm Engagement NRW und das Programm »Reparieren statt wegwerfen« vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) finanziell gefördert. Weiterhin haben wir Sachspenden von PeakTech, Weller und Moccamaster erhalten.
 
@@ -233,7 +247,7 @@ Bitte prüfe vor absenden des Formulars Deine Angaben. Um zu den einzelnen Absch
 
 ### Datum
 
-23.07.2026
+24.07.2026
 
 ### Ort
 
