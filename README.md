@@ -181,7 +181,17 @@ Perspektivisch soll MANUEL im Makerspace außerdem als Chatbot Personen gezielt 
 
 ##### 4. Wie stellst Du die Messbarkeit des Projekterfolges sicher?
 
-Da Zammad bereits zur Dokumentation genutzt wird, lässt sich der Projekterfolg direkt anhand vorhandener Kennzahlen messen: Anzahl und Bearbeitungsdauer der durch MANUEL vorkategorisierten Anfragen, Anteil neuer Engagierter, die eigenständig Anfragen bearbeiten, sowie die statistische Auswertung der Repair-Café-Ergebnisse. Zusätzlich erfassen wir, wie viele Gäste anhand einer MANUEL-Anleitung ihre Reparatur selbst durchführen konnten. Hinzu kommt das qualitative Feedback aus dem Austausch mit anderen Reparaturinitiativen beim Netzwerktreffen im September. Den gesamten Projektverlauf dokumentieren wir fortlaufend in unserem öffentlichen Wiki. Die im Repair Café erfassten Reparaturdaten fließen zusätzlich an reparatur-initiativen.de, die sie ihrerseits an die Open Repair Alliance weiterleitet – so schließt sich der Kreis zwischen der Datenquelle für MANUELs Anleitungen und den daraus entstehenden neuen Reparaturdaten.
+Da Zammad bereits zur Dokumentation genutzt wird, lässt sich der Projekterfolg anhand vorhandener und neuer Kennzahlen messen.
+
+- Erfolgsquote der Reparaturen im Repair Café
+- Anzahl neuer Engagierter, die eigenständig Anfragen bearbeiten
+- Anzahl der Reparaturen, die Gäste anhand einer MANUEL-Anleitung weitesgehend allein durchgeführt haben
+- Feedback zu den KI-Vorschlägen über die in Zammad integrierte Feedback-Funktion
+- Anzahl der an die Open Repair Alliance gemeldeten Reparaturen
+- Direkte Befragungen der Engagierten und Gäste beim Repair Café
+- Qualitatives Feedback aus dem Austausch mit anderen Reparaturinitiativen, etwa beim Netzwerktreffen im September oder bei der Reparaturpause des Netzwerks Reparatur-Initiativen
+
+Für den perspektivischen Einsatz im Makerspace selbst ist die Erfassung von Kennzahlen nicht ganz so leicht. Ein Projekterfolg lässt sich ggf. anhand der Tage der Werkstattnutzung, den geposteten Projekten im Forum, der Anzahl an Wiki Artikeln oder der Anzahl an neuen Mitgliedern herleiten.
 
 ##### 5. Warum sollten wir Dich fördern? Wie passt Dein Projekt mit der DATEV-Stiftung Zukunft zusammen?
 
