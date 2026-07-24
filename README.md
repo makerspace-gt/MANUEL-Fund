@@ -191,7 +191,7 @@ Da Zammad bereits zur Dokumentation genutzt wird, lässt sich der Projekterfolg 
 - Direkte Befragungen der Engagierten und Gäste beim Repair Café
 - Qualitatives Feedback aus dem Austausch mit anderen Reparaturinitiativen, etwa beim Netzwerktreffen im September oder bei der Reparaturpause des Netzwerks Reparatur-Initiativen
 
-Für den perspektivischen Einsatz im Makerspace selbst ist die Erfassung von Kennzahlen nicht ganz so leicht. Ein Projekterfolg lässt sich ggf. anhand der Tage der Werkstattnutzung, den geposteten Projekten im Forum, der Anzahl an Wiki Artikeln oder der Anzahl an neuen Mitgliedern herleiten.
+Für den perspektivischen Einsatz im Makerspace selbst ist die Erfassung von Kennzahlen nicht ganz so leicht. Ein Projekterfolg lässt sich ggf. anhand der Tage und Stunden der Werkstattnutzung, den geposteten Projekten im Forum, der Anzahl an Wiki Artikeln oder der Anzahl an neuen Mitgliedern herleiten.
 
 ##### 5. Warum sollten wir Dich fördern? Wie passt Dein Projekt mit der DATEV-Stiftung Zukunft zusammen?
 
