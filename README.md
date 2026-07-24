@@ -211,7 +211,7 @@ In welchem finanziellen Rahmen bewegt sich Dein Förderantrag?
 
 #### Benötigte Fördersumme
 
-2.500,00 €
+2.759,00 €
 
 #### Finanzierungsbedarf
 
@@ -231,7 +231,7 @@ https://www.apple.com/de-edu/shop/buy-mac/mac-studio/m4-max-chip-14-core-cpu-32%
 
 #### Welche Organisationen/Stiftungen/Großspender unterstützen Dein Vorhaben/Deine Organisation zusätzlich?
 
-Für dieses Projekt gibt es keine zusätzliche Unterstützung.
+Für dieses Projekt gibt es keine zusätzliche Unterstützung. Sollte nur eine Teilfinanzierung möglich sein, wird die Differenz aus eigenen Mitteln gedeckt.
 
 In der Vergangenheit wurde unser Repair Café durch das Landesprogramm Engagement NRW und das Programm »Reparieren statt wegwerfen« vom Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) finanziell gefördert. Weiterhin haben wir Sachspenden von PeakTech, Weller und Moccamaster erhalten.
 
