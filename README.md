@@ -46,9 +46,7 @@ Bitte gib Deine Kontaktdaten an, damit wir Dich ggf. kontaktieren können.
 
 #### Institution inkl. Rechtsform des Antragstellers
 
-Bitte ordne Dein Projekt unseren Förderbereichen zu.
-
-#### In welchem Förderbereich der DATEV-Stiftung Zukunft findest Du Dein Projekt/Deine Organisation wieder? (Mehrfachauswahl möglich)
+Makerspace Gütersloh e.V.
 
 #### Telefonnummer
 
@@ -125,7 +123,7 @@ Erzähle uns von Deinem Projekt oder Deiner Idee.
 
 #### Wie heißt Dein Projekt?
 
-##### 3. Welche Meilensteine planst Du und hast Du gegebenenfalls schon erreicht?
+MANUEL
 
 #### Kurzbeschreibung Deines Projekts
 
@@ -133,9 +131,9 @@ Bitte gehe explizit auf folgende Fragen ein:
 
 ##### 1. Welches Problem soll das Projekt lösen? Welche Zielsetzung verfolgst Du?
 
-Bereits vorhanden ist die Basis dafür: das seit 2022 etablierte Zammad-System sowie der laufende Repair-Café-Betrieb seit 2019.
+Der Makerspace Gütersloh e.V. ist eine offene Werkstatt, in der Maschinen und Werkzeuge gemeinschaftlich erforscht und genutzt werden. Unter dem Motto »Mach doch, was du willst!« animieren wir Mitglieder, Gäste und interessierte Personen dazu, sich selbst kreativ auszuleben und neue Dinge zu erschaffen. Wir haben verschiedene Kenntnisse, von laienhaft interessiert bis professionell, und unterstützen uns einander bei Projekten, die wir alleine nicht umsetzen könnten.
 
-##### 4. Wie stellst Du die Messbarkeit des Projekterfolges sicher?
+Seit März 2019 veranstalten wir monatliche Repair Cafés in Kooperation mit der Stadtbibliothek Gütersloh. Bei diesen helfen wir dabei, defekte Gegenstände zu reparieren oder Linux zu installieren. Durch das gemeinsame Reparieren setzen wir ein Zeichen gegen die Wegwerfgesellschaft und für einen schonenden Umgang mit Ressourcen.
 
 Gästen und neuen Engagierten fällt es schwer, sich mit wenigen Vorkenntnissen direkt einzubringen und selbständig tätig zu werden.
 Mit dem Projekt »MANUEL« möchten wir dieses Problem angehen und unser Engagement durch KI unterstützen.  
