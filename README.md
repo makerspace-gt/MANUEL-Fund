@@ -203,7 +203,7 @@ Wir leben das Motto »Tue Gutes und rede darüber«. Transparenz ist uns wichtig
 
 ##### Projektzeitraum (MM/JJJJ-MM/JJJJ)
 
-11/2026-10/2027
+08/2026-10/2027
 
 ### Finanzbedarf
 
