@@ -5,7 +5,7 @@ Wir freuen uns auf Deine Impulse und Visionen.
 
 ### 1 Kontaktaufnahme
 
-Nutze die Möglichkeit und spreich mit uns: Stelle Dein Vorhaben im Rahmen einer kurzen Präsentation dem Team der DATEV-Stiftung Zukunft vor.
+Nutze die Möglichkeit und sprich mit uns: Stelle Dein Vorhaben im Rahmen einer kurzen Präsentation dem Team der DATEV-Stiftung Zukunft vor.
 
 ### 2 Antrag absenden
 
@@ -100,7 +100,7 @@ Bitte ordne Dein Projekt unseren Förderbereichen zu.
   - Frage nach digitaler Identität
   - Datenschutz im (inter-)nationalen Kontext
 - [x] Anforderungen an eine digitale Berufs- und Arbeitswelt  
-  Mit der Digitalisierung bleiben die Berufsbilder, wie wir sie heute kennen, nicht bestehen. Alle Berufsbilder erleben einen Wandel, teilweise sogar disruptiv. Damit verändern sich auch die Hard- und Softskills, die von zukünftigen Arbeit- nehmern beherrscht werden müssen.
+  Mit der Digitalisierung bleiben die Berufsbilder, wie wir sie heute kennen, nicht bestehen. Alle Berufsbilder erleben einen Wandel, teilweise sogar disruptiv. Damit verändern sich auch die Hard- und Softskills, die von zukünftigen Arbeitnehmern beherrscht werden müssen.
   
   Diese sind unter anderem:
   - Durchführung von automatisierten Dienstanalysen
@@ -114,7 +114,7 @@ Bitte ordne Dein Projekt unseren Förderbereichen zu.
   Das erreichen wir unter anderem durch Unterstützung folgender Punkte:
   - Durchführung von Kongressen, Symposien und Diskussionsforen im Rahmen unserer Stiftungszwecke
   - Austausch von Schulen mit Partnern aus Wirtschaft und Wissenschaft
-  - Schaffung digitaler Plattform- Ökonomien
+  - Schaffung digitaler Plattform-Ökonomien
   - Bereichsübergreifende Vernetzung und Zusammenarbeit
 
 ### Infos zum Projekt
@@ -185,17 +185,17 @@ Da Zammad bereits zur Dokumentation genutzt wird, lässt sich der Projekterfolg 
 
 - Erfolgsquote der Reparaturen im Repair Café
 - Anzahl neuer Engagierter, die eigenständig Anfragen bearbeiten
-- Anzahl der Reparaturen, die Gäste anhand einer MANUEL-Anleitung weitesgehend allein durchgeführt haben
+- Anzahl der Reparaturen, die Gäste anhand einer MANUEL-Anleitung weitestgehend allein durchgeführt haben
 - Feedback zu den KI-Vorschlägen über die in Zammad integrierte Feedback-Funktion
 - Anzahl der an die Open Repair Alliance gemeldeten Reparaturen
 - Direkte Befragungen der Engagierten und Gäste beim Repair Café
 - Qualitatives Feedback aus dem Austausch mit anderen Reparaturinitiativen, etwa beim Netzwerktreffen im September oder bei der Reparaturpause des Netzwerks Reparatur-Initiativen
 
-Für den perspektivischen Einsatz im Makerspace selbst ist die Erfassung von Kennzahlen nicht ganz so leicht. Ein Projekterfolg lässt sich ggf. anhand der Tage und Stunden der Werkstattnutzung, den geposteten Projekten im Forum, der Anzahl an Wiki Artikeln oder der Anzahl an neuen Mitgliedern herleiten.
+Für den perspektivischen Einsatz im Makerspace selbst ist die Erfassung von Kennzahlen nicht ganz so leicht. Ein Projekterfolg lässt sich ggf. anhand der Tage und Stunden der Werkstattnutzung, der geposteten Projekte im Forum, der Anzahl an Wiki Artikeln oder der Anzahl an neuen Mitgliedern herleiten.
 
 ##### 5. Warum sollten wir Dich fördern? Wie passt Dein Projekt mit der DATEV-Stiftung Zukunft zusammen?
 
-MANUEL setzt die genossenschaftliche Idee der DATEV-Stiftung Zukunft um, dass Fortschritt entsteht, wenn Menschen ihr Wissen teilen und gemeinsam Lösungen entwickeln. Das ist auch unser eigener Antrieb als offene Werkstatt. Mit MANUEL übertragen wir dieses Prinzip auf den Einsatz von KI und finden uns damit in allen drei Förderbereichen der Stiftung wieder. Weil wir MANUEL lokal statt in der Cloud betreiben, bleiben alle Anfragedaten bei uns und stärken so die digitale Souveränität und Selbstbestimmung im digitalen Raum, die der Bereich IT-Sicherheit und Datenschutz beschreibt. MANUEL vermittelt digitale Kompetenzen und den verantwortungsvollen Umgang mit künstlicher Intelligenz an Engagierte mit wenig oder ohne Vorkenntnisse und bereitet sie so auf die digitale Berufs- und Arbeitswelt vor. Über die Vorstellung beim Netzwerk Reparatur-Initiativen der anstiftung sowie die geplante Veröffentlichung als Modellprojekt tragen wir außerdem zum Wissens- und Ideentransfer zwischen Ehrenamtsstrukturen bei, das ist digitale Vernetzung und Zusammenarbeit über unseren eigenen Verein hinaus.
+MANUEL setzt die genossenschaftliche Idee der DATEV-Stiftung Zukunft um, dass Fortschritt entsteht, wenn Menschen ihr Wissen teilen und gemeinsam Lösungen entwickeln. Das ist auch unser eigener Antrieb als offene Werkstatt. Mit MANUEL übertragen wir dieses Prinzip auf den Einsatz von KI und finden uns damit in allen drei Förderbereichen der Stiftung wieder. Weil wir MANUEL lokal statt in der Cloud betreiben, bleiben alle Anfragedaten bei uns und stärken so die digitale Souveränität und Selbstbestimmung im digitalen Raum, die der Bereich IT-Sicherheit und Datenschutz beschreibt. MANUEL vermittelt digitale Kompetenzen und den verantwortungsvollen Umgang mit künstlicher Intelligenz an Engagierte mit wenig oder ohne Vorkenntnisse und bereitet sie so auf die digitale Berufs- und Arbeitswelt vor. Über die Vorstellung beim Netzwerk Reparatur-Initiativen der anstiftung sowie die geplante Veröffentlichung als Modellprojekt tragen wir außerdem zum Wissens- und Ideentransfer zwischen Ehrenamtsstrukturen bei, was digitale Vernetzung und Zusammenarbeit über unseren eigenen Verein hinaus ist.
 
 MANUEL ist dabei ausdrücklich keine interne Digitalisierungsmaßnahme unseres Vereins, sondern liefert auch unseren Gästen eigenständig verständliche Reparaturanleitungen und wirkt so direkt in die Bürgerschaft hinein. Über die monatlichen Repair Cafés, unsere Gäste und das überregionale Netzwerk erreichen wir mit wenig ehrenamtlicher Kapazität deutlich mehr Menschen, als unsere Mitgliederzahl vermuten lässt. Jeder Euro Förderung wirkt damit weit über unseren eigenen Verein hinaus. Als offen dokumentiertes Modellprojekt veröffentlichen wir zudem Hardware-Konfiguration, Ollama-Setup, Prompts und Zammad-Anbindung, damit andere Reparaturinitiativen MANUEL direkt nachnutzen können. Dass dieser Ansatz über Gütersloh hinaus Anklang findet, merken wir bereits jetzt. Über unsere öffentliche Präsenz in Forum und GitHub wurden wir schon mehrfach von anderen Initiativen aus Deutschland angeschrieben und um Rat und Erfahrungswerte gebeten.
 
