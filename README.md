@@ -133,7 +133,7 @@ Bitte gehe explizit auf folgende Fragen ein:
 
 Der Makerspace Gütersloh e.V. ist eine offene Werkstatt, in der Maschinen und Werkzeuge gemeinschaftlich erforscht und genutzt werden. Unter dem Motto »Mach doch, was du willst!« animieren wir Mitglieder, Gäste und interessierte Personen dazu, sich selbst kreativ auszuleben und neue Dinge zu erschaffen. Wir haben verschiedene Kenntnisse, von laienhaft interessiert bis professionell, und unterstützen uns einander bei Projekten, die wir alleine nicht umsetzen könnten.
 
-Seit März 2019 veranstalten wir monatliche Repair Cafés in Kooperation mit der Stadtbibliothek Gütersloh. Bei diesen helfen wir dabei, defekte Gegenstände zu reparieren oder Linux zu installieren. Durch das gemeinsame Reparieren setzen wir ein Zeichen gegen die Wegwerfgesellschaft und für einen schonenden Umgang mit Ressourcen.
+Seit März 2019 veranstalten wir monatliche Repair Cafés in Kooperation mit der Stadtbibliothek Gütersloh. Bei diesen helfen wir dabei, defekte Gegenstände zu reparieren oder Linux zu installieren. Durch das gemeinsame Reparieren setzen wir ein Zeichen gegen die Wegwerfgesellschaft und für einen schonenden Umgang mit Ressourcen. Bei den 20 Terminen in den letzten 12 Monaten wurden insgesamt 404 Gegenstände angemeldet, sodass wir im Schnitt 18 bis 32 Reparaturen am Tag durchgeführt haben.
 
 Gästen und neuen Engagierten fällt es schwer, sich mit wenigen Vorkenntnissen direkt einzubringen und selbständig tätig zu werden.
 Mit dem Projekt »MANUEL« möchten wir dieses Problem angehen und unser Engagement durch KI unterstützen.  
