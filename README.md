@@ -131,12 +131,9 @@ Bitte gehe explizit auf folgende Fragen ein:
 
 ##### 1. Welches Problem soll das Projekt lösen? Welche Zielsetzung verfolgst Du?
 
-Der Makerspace Gütersloh e.V. ist eine offene Werkstatt, in der Maschinen und Werkzeuge gemeinschaftlich erforscht und genutzt werden. Unter dem Motto »Mach doch, was du willst!« animieren wir Mitglieder, Gäste und interessierte Personen dazu, sich selbst kreativ auszuleben und neue Dinge zu erschaffen. Wir haben verschiedene Kenntnisse, von laienhaft interessiert bis professionell, und unterstützen uns einander bei Projekten, die wir alleine nicht umsetzen könnten.
-
-Seit März 2019 veranstalten wir monatliche Repair Cafés in Kooperation mit der Stadtbibliothek Gütersloh. Bei diesen helfen wir dabei, defekte Gegenstände zu reparieren oder Linux zu installieren. Durch das gemeinsame Reparieren setzen wir ein Zeichen gegen die Wegwerfgesellschaft und für einen schonenden Umgang mit Ressourcen. Bei den 20 Terminen in den letzten 12 Monaten wurden insgesamt 404 Gegenstände angemeldet, sodass wir im Schnitt 18 bis 32 Reparaturen am Tag durchgeführt haben.
-
-Gästen und neuen Engagierten fällt es schwer, sich mit wenigen Vorkenntnissen direkt einzubringen und selbständig tätig zu werden.
-Mit dem Projekt »MANUEL« möchten wir dieses Problem angehen und unser Engagement durch KI unterstützen.  
+Der Makerspace Gütersloh e.V. ist eine offene Werkstatt, in der Maschinen und Werkzeuge gemeinschaftlich erforscht und genutzt werden. Unter dem Motto »Mach doch, was du willst!« ermutigen wir Mitglieder, Gäste und interessierte Personen dazu, sich selbst kreativ auszuleben und neue Dinge zu erschaffen. Wir haben verschiedene Kenntnisse, von laienhaft interessiert bis professionell, und unterstützen uns einander bei Projekten, die wir alleine nicht umsetzen könnten.
+Seit März 2019 veranstalten wir regelmäßige Repair Cafés in Kooperation mit der Stadtbibliothek Gütersloh. Bei diesen helfen wir dabei, defekte Gegenstände zu reparieren oder Linux zu installieren. Bei den 20 Terminen in den letzten 12 Monaten wurden insgesamt 404 Gegenstände angemeldet, sodass wir im Schnitt 18 bis 32 Reparaturen am Tag durchgeführt haben. Durch das gemeinsame Reparieren setzen wir ein Zeichen gegen die Wegwerfgesellschaft und für einen schonenden Umgang mit Ressourcen. Durch den Ausbau unserer Dokumentation soll dieses Wissen künftig langfristig gesichert und wiederverwendbar aufbereitet werden.
+Da es Gästen und neuen Engagierten ohne tiefere Vorkenntnis oft schwerfällt, direkt selbständig tätig zu werden, setzt hier das Projekt »MANUEL« an: Mithilfe von künstliche Intelligenz möchten wir diese Einstiegshürden abbauen und unser ehrenamtliches Engagement gezielt unterstützen.
 MANUEL steht für:  
 Minimale  
 AI für  
@@ -165,6 +162,7 @@ Bereits vor der Anschaffung des Mac Studio werden wir MANUEL prototypisch auf ei
 Dass wir MANUEL lokal statt in der Cloud betreiben wollen, hat zwei Hintergründe.  
 Zum einen bleiben alle Anfragedaten bei uns. Das stärkt die digitale Souveränität und Selbstbestimmung im digitalen Raum sowohl unserer Engagierten als auch unserer Gäste. Wir engagieren uns zudem beim Digital Independence Day, der jeden ersten Sonntag im Monat dazu aufruft, sich von der Marktmacht weniger US-amerikanischer Tech-Konzerne unabhängig zu machen. Dazu würde es nicht passen, für MANUEL selbst auf deren Cloud-KI-Angebote zurückzugreifen.  
 Zum anderen ist zu erwarten, dass die Kosten für die Nutzung kommerzieller Cloud-KI-Angebote deutlich steigen werden. Der Mac Studio wird dagegen einmalig angeschafft und arbeitet danach mit geringen laufenden Nutzungskosten. Die frei verfügbaren Open-Weight-Modelle liegen inzwischen nur noch etwa ein halbes Jahr hinter kommerziellen Modellen zurück und sind damit für unseren Anwendungsfall bereits ausreichend leistungsfähig.
+Die entwickelten Konzepte, Prompts, Workflows und Dokumentationsvorlagen sollen offen dokumentiert werden und können von anderen Repair Cafés, Makerspaces und ehrenamtlichen Initiativen übernommen werden.
 
 Perspektivisch soll MANUEL im Makerspace außerdem als Chatbot Personen gezielt zueinander vermitteln und Fragen zu Werkzeugen und Maschinen beantworten. Dazu wollen wir die derzeit sehr gehypten Werkzeuge OpenClaw und Hermes Agent testen.
 
