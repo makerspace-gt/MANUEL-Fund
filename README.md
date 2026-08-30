@@ -84,7 +84,7 @@ Deutsche Stiftung für Engagement und Ehrenamt
 
 Der Makerspace Gütersloh betreibt eine offene Werkstatt in der Maschinen und Werkzeuge gemeinschaftlich genutzt und erforscht werden. Unter dem Motto "Mach doch was Du willst!" animieren wir unsere Mitglieder und interessierte Personen dazu sich selbst kreativ auszuleben und neue Dinge zu erschaffen. Unserer Engagierten haben verschiedene Kenntnisse und unterstützen sich gegenseitig bei Projekten, die sie allein nicht umsetzen könnten. Auch Nichtmitglieder dürfen die Einrichtung nutzen. Dabei betrachten wir uns als Sharing Community in der wir in unserer ländlichen Region einer großen Zahl Menschen Zugang zu Maschinen, Digitalequipment und gemeinsamen Wissen ermöglichen. Bei uns sind alle willkommen ungeachtet ihres Geschlechts, Alters, ethnischer Zugehörigkeit, Nationalität, sozialer Herkunft, etwaiger Behinderung oder sexuellen Orientierung. Allerdings machen wir keine Auftragsarbeit, sondern es muss selbst Hand angelegt werden soweit dies möglich ist.
 
-Aktuell haben wir verschiedene Arbeitsbereiche für 3D-Druck, Elektronik, Holz, Textil, Audio/Video und Digitales. Besonders stolz sind wir dabei auf unseren Lasercutter, die selbstgebaute CNC Fräse, unsere Stickmaschine, das Siebdruckset und die Holzwerkstatt im Allgemeinen. Neben der Werkstatt haben wir noch einen weiteren Bereich mit Sofa und Beamer, um Vorträge zu halten oder sich gemütlich zu treffen. Einmal im Monat veranstalten wir ein Repair Café in der Stadtbibliothek Gütersloh.
+Aktuell haben wir verschiedene Arbeitsbereiche für 3D-Druck, Elektronik, Holz, Textil, Audio/Video und Digitales. Besonders stolz sind wir dabei auf unseren Lasercutter, die selbstgebaute CNC Fräse, unsere Stickmaschine, das Siebdruckset und die Holzwerkstatt im Allgemeinen. Neben der Werkstatt haben wir noch einen weiteren Bereich mit Sofa und Beamer, um Vorträge zu halten oder sich gemütlich zu treffen. Zweimal im Monat veranstalten wir ein Repair Café in der Stadtbibliothek Gütersloh.
 Mehr anzeigen
 
 #### 1. Ansprechpartner/in
@@ -173,7 +173,7 @@ Seit November 2022 nutzen wir das Ticketsystem Zammad zur Organisation und Dokum
 
 Dass wir MANUEL lokal statt in der Cloud betreiben wollen, hat zwei Gründe. Zum einen bleiben alle Anfragedaten bei uns und zum anderen ist zu erwarten, dass die Kosten für die Nutzung kommerzieller Cloud-KI-Angebote deutlich steigen werden.
 
-Perspektivisch soll MANUEL im Makerspace als Chatbot Personen gezielt zueinander vermitteln und Fragen zu Werkzeugen und Maschinen beantworten. Dazu wollen wir die derzeit sehr gehypten Werkzeuge OpenClaw und Hermes Agent testen.
+MANUEL soll auf unsere im Ticketsystem Zammad dokumentierten Erfahrungen zugreifen und ebenfalls auf unsere anderen Dokumentationen, z.B. unser Inventarisierungssystem. Wir erwarten das wir dadurch zum einen Erkenntnisse gewinnen über wiederkehrende Probleme und deren Lösung, zum anderen auch Hinweise zur Möglichkeit der Verbesserung der AUsstattung des Makerspace.  Perspektivisch soll MANUEL im Makerspace als Chatbot Personen gezielt zueinander vermitteln und Fragen zu Werkzeugen und Maschinen beantworten. Dazu wollen wir die derzeit sehr gehypten Werkzeuge OpenClaw und Hermes Agent testen.
 
 ### 5.2 Warum ist das Projekt wichtig und was wollen Sie damit erreichen?
 
@@ -181,7 +181,7 @@ Was ist der Anlass für Ihr Projekt und welchen Bedarf oder welches Problem möc
 Welche kurzfristigen Ziele wollen Sie mit Ihrem Projekt erreichen und woran messen Sie, ob es erfolgreich war?  
 Welche langfristige Wirkung erwarten Sie von Ihrem Projekt (z.B. professionellere Vereinsstrukturen, neue Mitglieder, stärkere Identifikation mit der Organisation o.ä.)?
 
-Seit 2019 veranstalten wir monatliche Repair Cafés. Dabei stellen wir immer wieder fest, dass es Gästen und neuen Engagierten mit wenigen Vorkenntnissen schwerfällt, sich direkt einzubringen und selbstständig tätigt zu werden. 
+Seit 2019 veranstalten wir monatliche Repair Cafés. Dabei stellen wir immer wieder fest, dass es Gästen und neuen Engagierten mit wenigen Vorkenntnissen schwerfällt, sich direkt einzubringen und selbstständig tätig zu werden. 
 
 Mit MANUEL (Minimale AI für Nutzer-Unterstützung auf Einstiegs-Level) möchten wir dieses Problem angehen und unser Engagement durch KI unterstützen.
 
