@@ -205,10 +205,15 @@ Perspektivisch soll MANUEL in weiteren Bereichen des Vereins eingesetzt werden. 
 
 Bitte beschreiben Sie, ob und wie Engagierte in das beantragte Projekt eingebunden werden sollen.
 
-Vor Beginn des Projekts gibt es bereits die Möglichkeit, sich mit anderen Engagierten aus der Community beim Netzwerktreffen »Wer repariert hier wen? Zur Rolle der KI in Reparatur-Initiativen« des Netzwerks Reparatur-Initiativen der anstiftung auszutauschen.
-Sobald das Projekt gestartet ist, übernehmen die Engagierten die Einrichtung von Ollama auf dem Mac Mini sowie die Anbindung an Zammad. Anschließend testen sie bei Repair Cafés verschiedene LLMs mit unterschiedlichen Prompts und geben über die Feedback-Funktion in Zammad Rückmeldung zu den Vorschlägen. Wenn dies erfolgreich abgeschlossen ist, wird die Datenübermittlung an die Open Repair Alliance eingerichtet.
-Am Ende des Projekts veröffentlichen sie MANUEL als offen dokumentiertes Modellprojekt zur Nachnutzung durch andere Reparaturinitiativen. 
-Als Anschlussprojekt testen sie den prototypischen Einsatz von OpenClaw, Hermes Agent und ggf. weiteren agentischen Systemen zur Evaluierung für den perspektivischen Einsatz im Makerspace.
+---
+
+Bereits vor Beginn des Projekts gibt es die Möglichkeit, sich mit anderen Engagierten aus der Community beim Netzwerktreffen »Wer repariert hier wen? Zur Rolle der KI in Reparatur-Initiativen« des Netzwerks Reparatur-Initiativen der anstiftung auszutauschen.
+
+Sobald das Projekt gestartet ist, übernehmen die Engagierten die Einrichtung des Mini-PCs sowie dessen Anbindung an Zammad. Anschließend testen sie bei Repair Cafés verschiedene LLMs mit unterschiedlichen Prompts und geben Rückmeldung zu den Vorschlägen. Wenn dies erfolgreich abgeschlossen ist, wird die Datenübermittlung an die Open Repair Alliance eingerichtet.
+
+Am Ende des Projekts veröffentlichen sie MANUEL als offen dokumentiertes Modellprojekt zur Nachnutzung durch andere Reparaturinitiativen.
+
+Im Anschluss testen die Engagierten den prototypischen Einsatz von KI-Agenten und -Assistenzsystemen zur Evaluierung für den perspektivischen Einsatz im Makerspace zur Wissensvermittlung und Vernetzung der Mitglieder.
 
 ### 5.4 Wie viele Engagierte können Sie mit Ihrem Projekt erreichen?
 
