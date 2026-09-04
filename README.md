@@ -122,10 +122,10 @@ Keinen Ansprechpartner/in ausgewählt
 
 ### 3.1 Sachausgaben und Honorare
 
-|       | Ausgabenart                                      | Bezeichnung      |         Betrag |
-| :---: | ------------------------------------------------ | ---------------- | -------------: |
-|   1   | Anschaffungen (z.B. Materialien, Lernmittel, IT) | Mac Mini M6 32GB |     1.489,00 € |
-|       |                                                  |                  | **1.489,00 €** |
+|       | Ausgabenart                                      | Bezeichnung                       |         Betrag | Link                                |
+| :---: | ------------------------------------------------ | --------------------------------- | -------------: | ----------------------------------- |
+|   1   | Anschaffungen (z.B. Materialien, Lernmittel, IT) | MINISFORUM AI X1 Pro-370 64GB/2TB |     1.719,00 € | https://www.amazon.de/dp/B0HDYQ9K3Y |
+|       |                                                  |                                   | **1.719,00 €** |
 
 ### 3.2 Fiktive Ausgaben, falls zutreffend: Wenn Sie Ihren Eigenanteil durch ehrenamtliche Arbeitsstunden einbringen möchten, geben Sie diese hier als fiktive Ausgaben an.
 
@@ -136,33 +136,33 @@ Keinen Ansprechpartner/in ausgewählt
 
 ### 3.3 Eigenanteil
 
-| Art des Eigenanteils |  Betrag |
-| -------------------- | ------: |
-| Eigenmittel          | 13,90 € |
+| Art des Eigenanteils |   Betrag |
+| -------------------- | -------: |
+| Eigenmittel          | 219,00 € |
 
 ## 4 Ausgaben- und Finanzierungsplan
 
 |       | Ausgaben                                                           |                |
 | ----- | ------------------------------------------------------------------ | -------------: |
-| 4.1   | Sachausgaben und Honorare                                          |     1.489,00 € |
-| 4.1.1 | Anschaffungen (z.B. Materialien, Lernmittel, IT): Mac Mini M6 32GB |     1.489,00 € |
+| 4.1   | Sachausgaben und Honorare                                          |     1.719,00 € |
+| 4.1.1 | Anschaffungen (z.B. Materialien, Lernmittel, IT): Mac Mini M6 32GB |     1.719,00 € |
 | 4.2   | Einzubringende ehrenamtliche Eigenleistung (15 €/Stunde)           |       150,00 € |
 | 4.2.1 | Ehrenamtlich zu leistende Stunden (à 15 €): 10                     |       150,00 € |
-|       | **Gesamtausgaben**                                                 | **1.639,00 €** |
+|       | **Gesamtausgaben**                                                 | **1.869,00 €** |
 
 |       | Finanzierung                               |                |
 | ----- | ------------------------------------------ | -------------: |
-| 4.3   | Eigenanteil                                |        13,90 € |
-| 4.3.1 | Eigenmittel                                |        13,90 € |
+| 4.3   | Eigenanteil                                |       219,00 € |
+| 4.3.1 | Eigenmittel                                |       219,00 € |
 | 4.4   | Ehrenamtliche Eigenleistungen              |       150,00 € |
 |       | Einzubringende ehrenamtliche Eigenleistung |       150,00 € |
-| 4.5   | Zuwendung der DSEE als Festbetrag          |     1.475,10 € |
-|       | **Gesamtfinanzierung**                     | **1.639,00 €** |
+| 4.5   | Zuwendung der DSEE als Festbetrag          |     1.500,00 € |
+|       | **Gesamtfinanzierung**                     | **1.869,00 €** |
 
 |     | Gesamtzuwendung                   |                |
 | --- | --------------------------------- | -------------: |
-| 4.6 | Zuwendung der DSEE als Festbetrag |     1.475,10 € |
-|     | **Gesamtzuwendung**               | **1.475,10 €** |
+| 4.6 | Zuwendung der DSEE als Festbetrag |     1.500,00 € |
+|     | **Gesamtzuwendung**               | **1.500,00 €** |
 
 ## 5 Beschreibung des Vorhabens
 
