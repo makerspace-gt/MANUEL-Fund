@@ -170,11 +170,13 @@ Keinen Ansprechpartner/in ausgewählt
 
 Bitte beschreiben Sie in wenigen Sätzen, welche Aktivitäten oder Maßnahmen Sie konkret durchführen möchten. Gehen Sie dabei auch kurz darauf ein, warum die im Finanzierungsplan genannten Ausgaben dafür erforderlich sind.
 
-Seit November 2022 nutzen wir das Ticketsystem Zammad zur Organisation und Dokumentation im Repair Café. Ab der Version 7.0 wird der native Einsatz von KI unterstützt, sodass MANUEL jetzt technisch sinnvoll umsetzbar ist. Zu diesem Zweck wird ein Mac Mini angeschafft, der aufgrund der Neural Engine Cores kostengünstig Large Language Models lokal und datenschutzfreundlich betreiben kann. Die 32 GB Unified Memory reichen für ausreichend große Modelle aus. Als Laufzeitumgebung für das LLM kommt Ollama zum Einsatz. 
+---
 
-Dass wir MANUEL lokal statt in der Cloud betreiben wollen, hat zwei Gründe. Zum einen bleiben alle Anfragedaten bei uns und zum anderen ist zu erwarten, dass die Kosten für die Nutzung kommerzieller Cloud-KI-Angebote deutlich steigen werden.
+Seit November 2022 nutzen wir das Ticketsystem Zammad im Repair Café. Seit März 2026 wird der native Einsatz von KI unterstützt, sodass MANUEL jetzt technisch sinnvoll umsetzbar ist. Zu diesem Zweck wird ein Mini-PC angeschafft, der kostengünstig Large Language Models lokal und datenschutzfreundlich betreiben kann.
 
-Perspektivisch soll MANUEL im Makerspace als Chatbot Personen gezielt zueinander vermitteln und Fragen zu Werkzeugen und Maschinen beantworten. Dazu wollen wir die derzeit sehr gehypten Werkzeuge OpenClaw und Hermes Agent testen.
+Es gibt drei Gründe, weshalb wir MANUEL lokal statt in der Cloud betreiben. Es bleiben alle Anfragedaten bei uns, wir sind unabhängig von steigenden Kosten oder Enshittification kommerzieller Angebote und wir können das System auf unsere Bedürfnisse zuschneiden. Mit 64 GB Unified Memory können wir größere, komplexere Modelle oder mehrere kleinere Modelle parallel betreiben. Open-Weight-Modelle sind derzeit so leistungsfähig wie kommerzielle Frontier-Modelle vor einem halben Jahr.
+
+MANUEL soll bei der Kategorisierung und Erstdiagnose von Anfragen unterstützen. So verbinden wir digitale Innovation mit praktischem Ehrenamt und setzen dabei auf Open-Source-Software.
 
 ### 5.2 Warum ist das Projekt wichtig und was wollen Sie damit erreichen?
 
