@@ -184,14 +184,16 @@ Was ist der Anlass für Ihr Projekt und welchen Bedarf oder welches Problem möc
 Welche kurzfristigen Ziele wollen Sie mit Ihrem Projekt erreichen und woran messen Sie, ob es erfolgreich war?  
 Welche langfristige Wirkung erwarten Sie von Ihrem Projekt (z.B. professionellere Vereinsstrukturen, neue Mitglieder, stärkere Identifikation mit der Organisation o.ä.)?
 
-Seit 2019 veranstalten wir monatliche Repair Cafés. Dabei stellen wir immer wieder fest, dass es Gästen und neuen Engagierten mit wenigen Vorkenntnissen schwerfällt, sich direkt einzubringen und selbstständig tätigt zu werden. 
+---
+
+Seit 2019 veranstalten wir monatliche Repair Cafés. Dabei stellen wir immer wieder fest, dass es Gästen und neuen Engagierten mit wenigen Vorkenntnissen schwerfällt, sich direkt einzubringen und selbstständig tätig zu werden.
 
 Mit MANUEL (Minimale AI für Nutzer-Unterstützung auf Einstiegs-Level) möchten wir dieses Problem angehen und unser Engagement durch KI unterstützen.
 
 Der Erfolg des Projekts lässt sich an
 
 - der Reparaturquote,
-- der Anzahl der durch Gäste und neue Engagierte durchgeführten Reparaturen,
+- der Anzahl der von Gästen und neuen Engagierten durchgeführten Reparaturen,
 - dem Feedback zu den KI-Vorschlägen und
 - der an die Open Repair Alliance gemeldeten Reparaturen
 
