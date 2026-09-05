@@ -142,13 +142,13 @@ Keinen Ansprechpartner/in ausgewählt
 
 ## 4 Ausgaben- und Finanzierungsplan
 
-|       | Ausgaben                                                           |                |
-| ----- | ------------------------------------------------------------------ | -------------: |
-| 4.1   | Sachausgaben und Honorare                                          |     1.719,00 € |
-| 4.1.1 | Anschaffungen (z.B. Materialien, Lernmittel, IT): Mac Mini M6 32GB |     1.719,00 € |
-| 4.2   | Einzubringende ehrenamtliche Eigenleistung (15 €/Stunde)           |       150,00 € |
-| 4.2.1 | Ehrenamtlich zu leistende Stunden (à 15 €): 10                     |       150,00 € |
-|       | **Gesamtausgaben**                                                 | **1.869,00 €** |
+|       | Ausgaben                                                                            |                |
+| ----- | ----------------------------------------------------------------------------------- | -------------: |
+| 4.1   | Sachausgaben und Honorare                                                           |     1.719,00 € |
+| 4.1.1 | Anschaffungen (z.B. Materialien, Lernmittel, IT): MINISFORUM AI X1 Pro-370 64GB/2TB |     1.719,00 € |
+| 4.2   | Einzubringende ehrenamtliche Eigenleistung (15 €/Stunde)                            |       150,00 € |
+| 4.2.1 | Ehrenamtlich zu leistende Stunden (à 15 €): 10                                      |       150,00 € |
+|       | **Gesamtausgaben**                                                                  | **1.869,00 €** |
 
 |       | Finanzierung                               |                |
 | ----- | ------------------------------------------ | -------------: |
