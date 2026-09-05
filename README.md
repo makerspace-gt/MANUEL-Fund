@@ -172,11 +172,11 @@ Bitte beschreiben Sie in wenigen Sätzen, welche Aktivitäten oder Maßnahmen Si
 
 ---
 
-Seit November 2022 nutzen wir das Ticketsystem Zammad im Repair Café. Seit März 2026 wird der native Einsatz von KI unterstützt, sodass MANUEL jetzt technisch sinnvoll umsetzbar ist. Zu diesem Zweck wird ein Mini-PC angeschafft, der kostengünstig Large Language Models lokal und datenschutzfreundlich betreiben kann.
+Seit November 2022 nutzen wir das Ticketsystem Zammad im Repair Café. Seit März 2026 wird die Einbindung von KI unterstützt, sodass MANUEL jetzt technisch sinnvoll umsetzbar ist. Zu diesem Zweck wird ein Mini-PC angeschafft, der Large Language Models kostengünstig und datenschutzfreundlich betreiben kann.
 
 Es gibt drei Gründe, weshalb wir MANUEL lokal statt in der Cloud betreiben. Es bleiben alle Anfragedaten bei uns, wir sind unabhängig von steigenden Kosten oder Enshittification kommerzieller Angebote und wir können das System auf unsere Bedürfnisse zuschneiden. Mit 64 GB Unified Memory können wir größere, komplexere Modelle oder mehrere kleinere Modelle parallel betreiben. Open-Weight-Modelle sind derzeit so leistungsfähig wie kommerzielle Frontier-Modelle vor einem halben Jahr.
 
-MANUEL soll Anfragen kategorisieren, Erstdiagnosen stellen und Lösungsansätze vorschlagen. So verbinden wir digitale Innovation mit praktischem Ehrenamt und setzen dabei auf Open-Source-Software.
+MANUEL soll Anfragen kategorisieren, Erstdiagnosen stellen und Lösungsansätze vorschlagen. So verbinden wir digitale Innovation mit praktischem Ehrenamt, ermöglichen neues Engagement und entlasten bestehendes.
 
 ### 5.2 Warum ist das Projekt wichtig und was wollen Sie damit erreichen?
 
