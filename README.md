@@ -176,7 +176,7 @@ Seit November 2022 nutzen wir das Ticketsystem Zammad im Repair Café. Seit Mär
 
 Es gibt drei Gründe, weshalb wir MANUEL lokal statt in der Cloud betreiben. Es bleiben alle Anfragedaten bei uns, wir sind unabhängig von steigenden Kosten oder Enshittification kommerzieller Angebote und wir können das System auf unsere Bedürfnisse zuschneiden. Mit 64 GB Unified Memory können wir größere, komplexere Modelle oder mehrere kleinere Modelle parallel betreiben. Open-Weight-Modelle sind derzeit so leistungsfähig wie kommerzielle Frontier-Modelle vor einem halben Jahr.
 
-MANUEL soll bei der Kategorisierung und Erstdiagnose von Anfragen unterstützen. So verbinden wir digitale Innovation mit praktischem Ehrenamt und setzen dabei auf Open-Source-Software.
+MANUEL soll Anfragen kategorisieren, Erstdiagnosen stellen und Lösungsansätze vorschlagen. So verbinden wir digitale Innovation mit praktischem Ehrenamt und setzen dabei auf Open-Source-Software.
 
 ### 5.2 Warum ist das Projekt wichtig und was wollen Sie damit erreichen?
 
