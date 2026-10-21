@@ -1,3 +1,6 @@
 [submodule "funds"]
 	path = funds
 	url = https://github.com/makerspace-gt/funds
+[submodule "MANUEL"]
+	path = MANUEL
+	url = https://github.com/makerspace-gt/MANUEL
