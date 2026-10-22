@@ -308,6 +308,14 @@ Ich erkläre namens der Antragstellerin/des Antragstellers, dass
 
 ### Konnten Sie die im Antrag aufgeführten Ziele erreichen? Bitte beschreiben Sie mit Ihren Worten, wie Sie dabei vorgegangen sind, und welche Maßnahmen oder Meilensteine für die Zielerreichung notwendig waren.
 
+- 14.09.2026 Einreichung des Antrags
+- 21.10.2026 Bewilligung
+- 21.10.2026 Rabattanfrage an Minisforum
+- 21.10.2026 Anlegen des Repositorys MANUEL
+- 21.10.2026 Erstellung des Projektplans
+- 22.10.2026 Auswahl von uCore und NixOS als Betriebssysteme für den Benchmark
+- 22.10.2026 Entscheidung für NetBird auf einer eigenen VM zur Vernetzung von Ollama und Zammad
+
 ### Wenn Sie weitere Anmerkungen zu Ihrem Projekt schildern möchten, ob z.B. Broschüren, Flyer sowie weitere Produkte entstanden sind, listen Sie diese bitte hier auf
 
 ### Welche Personengruppen haben Sie mit Ihrem Projekt erreicht?
