@@ -330,6 +330,15 @@ Ich erkläre namens der Antragstellerin/des Antragstellers, dass
 
 ### Falls im Finanzierungsplan ehrenamtliche Leistungen als Eigenanteil eingebracht wurden: Welche Tätigkeiten im Projekt wurden ausgeübt?
 
+- 21.10.2026 bis 22.10.2026 Planung und Dokumentation des Projekts im Repository [MANUEL](https://github.com/makerspace-gt/MANUEL)
+  - Erstellung des Projektplans mit Phasen, Zeitplan und offenen Entscheidungen
+  - Auswahl von Betriebssystem, Inferenz-Server, Sprachmodell und Vernetzung
+  - Aufbau eines eigenen signierten Betriebssystem-Images auf Basis von uCore
+  - Vorbereitung der Installation mit einer Butane-Datei
+  - Zuordnung der Aufgaben zwischen Sprachmodell und Automatisierung mit n8n
+  - Leitgedanken für die Prompts
+  - Abgleich der Felder im Ticketsystem mit den Laufzetteln von reparatur-initiativen.org und der Datenpotenzialanalyse des Repair Café Gütersloh
+
 ### Wie viele Veröffentlichungen in den Medien (Printmedien, Hörfunk, Fernsehen, Online-Medien) konnten Sie zu Ihrem Projekt feststellen?
 
 ## Ich – Wir erkläre/ erklären, dass
