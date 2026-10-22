@@ -293,3 +293,35 @@ Ich erkläre namens der Antragstellerin/des Antragstellers, dass
 
 - [x] nicht berechtigt ist und dies im Finanzplan berücksichtigt wurde
 - [ ] berechtigt ist und dies im Finanzplan berücksichtigt wurde.
+
+# Verwendungsnachweis
+
+## Ausgaben & Deckungsmittel
+
+### Ausgaben
+
+### Finanzierung
+
+## Sachbericht
+
+### Folgende Ziele haben Sie in Ihrem Antrag aufgeführt.
+
+### Konnten Sie die im Antrag aufgeführten Ziele erreichen? Bitte beschreiben Sie mit Ihren Worten, wie Sie dabei vorgegangen sind, und welche Maßnahmen oder Meilensteine für die Zielerreichung notwendig waren.
+
+### Wenn Sie weitere Anmerkungen zu Ihrem Projekt schildern möchten, ob z.B. Broschüren, Flyer sowie weitere Produkte entstanden sind, listen Sie diese bitte hier auf
+
+### Welche Personengruppen haben Sie mit Ihrem Projekt erreicht?
+
+### Welche Veränderungen konnten Sie mit Ihrem Projekt für Ihre Organisation erreichen?
+
+### Welche Veränderungen konnten Sie mit Ihrem Projekt für Ehrenamtliche erreichen?
+
+### Wie viele Engagierte haben Sie durch das Projekt erreicht?
+
+### Wie viele Stunden (Schätzwert) haben die Engagierten Ihrer Organisation für die Umsetzung des Projekts geleistet?
+
+### Falls im Finanzierungsplan ehrenamtliche Leistungen als Eigenanteil eingebracht wurden: Welche Tätigkeiten im Projekt wurden ausgeübt?
+
+### Wie viele Veröffentlichungen in den Medien (Printmedien, Hörfunk, Fernsehen, Online-Medien) konnten Sie zu Ihrem Projekt feststellen?
+
+## Ich – Wir erkläre/ erklären, dass
