@@ -27,7 +27,7 @@ Michael Prange
 
 Makerspace Gütersloh e.V.  
 -- Community --  
-c/o Die WEBEREI – Bürgerkiez gGmbH  
+c/o WEBEREI  
 Bogenstraße 1-8  
 33330 Gütersloh  
 Germany  
