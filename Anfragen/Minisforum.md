@@ -32,3 +32,28 @@ Bogenstraße 1-8
 33330 Gütersloh  
 Germany  
 More information at https://makerspace-gt.de
+
+---
+
+# Follow-up on our discount request for the MANUEL project
+
+eu@minisforum.com
+
+Dear Minisforum team,
+
+On 21 October we wrote to you asking whether you could offer Makerspace Gütersloh e.V. a discount on a MINISFORUM AI X1 Pro-370 for MANUEL, our local AI project for the Repair Café. As we have not heard back yet, we wanted to check whether our message reached you.
+
+If another contact person or address is responsible for requests like ours, we would be grateful for a short note. We are happy to resend the original message or send any further information you need, such as our tax exemption certificate.
+
+Thank you for your time. We look forward to hearing from you.
+
+Best regards  
+Michael Prange
+
+Makerspace Gütersloh e.V.  
+-- Community --  
+c/o WEBEREI  
+Bogenstraße 1-8  
+33330 Gütersloh  
+Germany  
+More information at https://makerspace-gt.de
