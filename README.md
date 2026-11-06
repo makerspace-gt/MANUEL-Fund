@@ -315,6 +315,7 @@ Ich erkläre namens der Antragstellerin/des Antragstellers, dass
 - 21.10.2026 Erstellung des Projektplans
 - 22.10.2026 Auswahl von uCore und NixOS als Betriebssysteme für den Benchmark
 - 22.10.2026 Entscheidung für NetBird auf einer eigenen VM zur Vernetzung von Ollama und Zammad
+- 05.11.2026 Lieferung des Mini-PCs MINISFORUM AI X1 Pro-370
 
 ### Wenn Sie weitere Anmerkungen zu Ihrem Projekt schildern möchten, ob z.B. Broschüren, Flyer sowie weitere Produkte entstanden sind, listen Sie diese bitte hier auf
 
